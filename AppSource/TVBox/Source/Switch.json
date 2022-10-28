@@ -1,0 +1,31 @@
+{
+    "IsRecodeLog": false, 
+    "ForceChangeApiUrl ": false, 
+    "HomeSite": "", 
+    "ApiUrl": "", 
+    "WindowPlay": true, 
+    "HistoryNum": 2, 
+    "HomeSource": 0, 
+    "SearchView": 0, 
+    "SecureDNS": 0, 
+    "PictureScale": 0, 
+    "Live": {
+        "Channel": "", 
+        "ChannelReverse": false, 
+        "CrossGroup": false, 
+        "ConnectTimeout": 5, 
+        "ShowNetSpeed": false, 
+        "ShowTime": true
+    }, 
+    "IsForceUpdate": false, 
+    "UpdateData": {
+        "NewVersion": "", 
+        "ForceUpdate": false, 
+        "UpdateTitle": "", 
+        "UpdateDesc": "",
+        "ConfirmButton": "",
+        "CancelButton": "",
+        "ExitButton": "",
+        "UpdateDownloadUrl": ""
+    }
+}
