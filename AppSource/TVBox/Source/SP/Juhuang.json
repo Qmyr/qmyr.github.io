@@ -1,0 +1,76 @@
+{
+    "player": {
+        "xg": {
+            "show": "xg播放器",
+            "or": 999,
+            "sn": 0,
+            "parse": ""
+        },
+        "dplayer": {
+            "show": "dplayer播放器",
+            "or": 999,
+            "sn": 0,
+            "parse": ""
+        },
+        "videojs": {
+            "show": "videojs-H5播放器",
+            "or": 999,
+            "sn": 0,
+            "parse": ""
+        },
+        "iva": {
+            "show": "iva-H5播放器",
+            "or": 999,
+            "sn": 0,
+            "parse": ""
+        },
+        "iframe": {
+            "show": "iframe外链数据",
+            "or": 999,
+            "sn": 0,
+            "parse": ""
+        },
+        "link": {
+            "show": "外链数据",
+            "or": 999,
+            "sn": 0,
+            "parse": ""
+        },
+        "swf": {
+            "show": "Flash文件",
+            "or": 999,
+            "sn": 0,
+            "parse": ""
+        },
+        "flv": {
+            "show": "Flv文件",
+            "or": 999,
+            "sn": 0,
+            "parse": ""
+        },
+        "plyr": {
+            "show": "plyr",
+            "or": 999,
+            "sn": 0,
+            "parse": ""
+        },
+        "H5player": {
+            "show": "H5player",
+            "or": 999,
+            "sn": 0,
+            "parse": ""
+        },
+        "playerjs": {
+            "show": "playerjs",
+            "or": 999,
+            "sn": 0,
+            "parse": ""
+        },
+        "aliplayer": {
+            "show": "阿里播放器",
+            "or": 999,
+            "sn": 0,
+            "parse": ""
+        }
+    }
+}
