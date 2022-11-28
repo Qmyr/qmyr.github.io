@@ -1,0 +1,414 @@
+{
+    "player": {
+        "duoduozy": {
+            "show": "VOFLIX",
+            "des": "",
+            "ps": "0",
+            "parse": "https://play.shcpin.com/xplay/?url="
+        },
+        "LINE406": {
+            "show": "LINE406",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        },
+        "LINE407": {
+            "show": "LINE407",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        },
+        "LINE408": {
+            "show": "LINE408",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        },
+        "p300": {
+            "show": "LINE300",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        },
+        "p301": {
+            "show": "LINE301",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        },
+        "line402-日语": {
+            "show": "LINE402",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        },
+        "LINE400": {
+            "show": "LINE400",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        },
+        "line401": {
+            "show": "LINE401",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        },
+        "iframe268": {
+            "show": "LINE268",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        },
+        "iframe290": {
+            "show": "LINE290",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        },
+        "iframe291": {
+            "show": "LINE291",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        },
+        "iframe296": {
+            "show": "LINE296",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        },
+        "iframe297": {
+            "show": "LINE297",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        },
+        "iframe307": {
+            "show": "LINE307",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        },
+        "iframe308": {
+            "show": "LINE308",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        },
+        "iframe309": {
+            "show": "LINE309",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        },
+        "line301": {
+            "show": "LINE333",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        },
+        "line302": {
+            "show": "LINE302",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        },
+        "LINE405": {
+            "show": "LINE405",
+            "des": "更多极速线路请访问APP",
+            "ps": "0",
+            "parse": ""
+        },
+        "LINE409": {
+            "show": "LINE409",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        },
+        "banquan": {
+            "show": "已下架",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        },
+        "iframe261": {
+            "show": "LINE261",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        },
+        "iframe265": {
+            "show": "LINE265",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        },
+        "iframe278": {
+            "show": "LINE278",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        },
+        "iframe306": {
+            "show": "LINE306",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        },
+        "iframe317": {
+            "show": "LINE317",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        },
+        "xg_app_player": {
+            "show": "app全局解析",
+            "des": "",
+            "ps": "1",
+            "parse": ""
+        },
+        "iframe257": {
+            "show": "LINE257",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        },
+        "iframe263": {
+            "show": "LINE263",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        },
+        "iframe258": {
+            "show": "LINE258",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        },
+        "iframe267": {
+            "show": "LINE267",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        },
+        "iframe": {
+            "show": "LINE200",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        },
+        "iframe262": {
+            "show": "LINE262",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        },
+        "iframe266": {
+            "show": "LINE266",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        },
+        "dplayer3": {
+            "show": "播放线路3",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        },
+        "dplayer2": {
+            "show": "播放线路2",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        },
+        "dplayer": {
+            "show": "播放线路1",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        },
+        "xunlei1": {
+            "show": "百度云盘",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        },
+        "if101国外": {
+            "show": "VOFLIX_海外",
+            "des": "",
+            "ps": "0",
+            "parse": "https://demo.if101.tv/player/?url="
+        },
+        "aliyun": {
+            "show": "阿里云盘",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        },
+        "xunlei2": {
+            "show": "迅雷云盘",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        },
+        "": {
+            "show": "",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        },
+        "LINE1080": {
+            "show": "LINE1080",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        },
+        "app": {
+            "show": "LINEAPP",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        },
+        "kuake": {
+            "show": "夸克网盘",
+            "des": "",
+            "ps": "0",
+            "parse": ""
+        }
+    },
+    "filter": {
+        "dianshiju": [
+            {
+                "key": "area",
+                "name": "地区",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": ""
+                    },
+                    {
+                        "n": "大陆",
+                        "v": "大陆"
+                    },
+                    {
+                        "n": "香港",
+                        "v": "香港"
+                    },
+                    {
+                        "n": "台湾",
+                        "v": "台湾"
+                    },
+                    {
+                        "n": "美国",
+                        "v": "美国"
+                    },
+                    {
+                        "n": "法国",
+                        "v": "法国"
+                    },
+                    {
+                        "n": "英国",
+                        "v": "英国"
+                    },
+                    {
+                        "n": "日本",
+                        "v": "日本"
+                    },
+                    {
+                        "n": "韩国",
+                        "v": "韩国"
+                    },
+                    {
+                        "n": "德国",
+                        "v": "德国"
+                    },
+                    {
+                        "n": "泰国",
+                        "v": "泰国"
+                    },
+                    {
+                        "n": "印度",
+                        "v": "印度"
+                    },
+                    {
+                        "n": "其他",
+                        "v": "其他"
+                    }
+                ]
+            },
+            {
+                "key": "year",
+                "name": "年份",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": ""
+                    },
+                    {
+                        "n": "2022",
+                        "v": "2022"
+                    },
+                    {
+                        "n": "2021",
+                        "v": "2021"
+                    },
+                    {
+                        "n": "2020",
+                        "v": "2020"
+                    },
+                    {
+                        "n": "2019",
+                        "v": "2019"
+                    },
+                    {
+                        "n": "2018",
+                        "v": "2018"
+                    },
+                    {
+                        "n": "2017",
+                        "v": "2017"
+                    },
+                    {
+                        "n": "2016",
+                        "v": "2016"
+                    },
+                    {
+                        "n": "2008",
+                        "v": "2008"
+                    },
+                    {
+                        "n": "2000",
+                        "v": "2000"
+                    },
+                    {
+                        "n": "1997",
+                        "v": "1997"
+                    },
+                    {
+                        "n": "1980",
+                        "v": "1980"
+                    }
+                ]
+            },
+            {
+                "key": "by",
+                "name": "排序",
+                "value": [
+                    {
+                        "n": "时间",
+                        "v": "time"
+                    },
+                    {
+                        "n": "人气",
+                        "v": "hits"
+                    },
+                    {
+                        "n": "评分",
+                        "v": "score"
+                    }
+                ]
+            }
+        ]
+    }
+}
