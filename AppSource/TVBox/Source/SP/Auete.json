@@ -14,7 +14,7 @@
         },
         "cyun": {
             "show": "云播C线",
-            "parse": "",
+            "parse": "https://auete.com/ass.php?url=",
             "sn": 0,
             "or": 999
         },
