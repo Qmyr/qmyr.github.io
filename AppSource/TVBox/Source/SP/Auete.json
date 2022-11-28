@@ -32,25 +32,25 @@
         },
         "m3u8hd": {
             "show": "云播F线",
-            "parse": "https://auete.com/api/?url=",
+            "parse": "https://auete.com/ass.php?url=",
             "sn": 1,
             "or": 999
         },
         "languang": {
             "show": "云播G线",
-            "parse": "https://auete.com/api/?url=",
+            "parse": "https://auete.com/ass.php?url=",
             "sn": 1,
             "or": 999
         },
         "hyun": {
             "show": "云播H线",
-            "parse": "https://auete.com/api/?url=",
+            "parse": "https://auete.com/ass.php?url=",
             "sn": 1,
             "or": 999
         },
         "kyun": {
             "show": "云播K线",
-            "parse": "https://auete.com/api/?url=",
+            "parse": "https://auete.com/ass.php?url=",
             "sn": 1,
             "or": 999
         },
@@ -68,7 +68,7 @@
         },
         "lyun": {
             "show": "云播L线",
-            "parse": "https://auete.com/api/?url=",
+            "parse": "https://auete.com/ass.php?url=",
             "sn": 1,
             "or": 999
         },
