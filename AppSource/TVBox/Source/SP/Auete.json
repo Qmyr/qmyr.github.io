@@ -1,0 +1,262 @@
+{
+    "player": {
+        "byun": {
+            "show": "云播B线",
+            "parse": "",
+            "sn": 0,
+            "or": 999
+        },
+        "dphd": {
+            "show": "云播A线",
+            "parse": "",
+            "sn": 0,
+            "or": 999
+        },
+        "cyun": {
+            "show": "云播C线",
+            "parse": "",
+            "sn": 0,
+            "or": 999
+        },
+        "dbm3u8": {
+            "show": "云播D线",
+            "parse": "",
+            "sn": 0,
+            "or": 999
+        },
+        "i8i": {
+            "show": "云播E线",
+            "parse": "",
+            "sn": 0,
+            "or": 999
+        },
+        "m3u8hd": {
+            "show": "云播F线",
+            "parse": "https://auete.com/api/?url=",
+            "sn": 1,
+            "or": 999
+        },
+        "languang": {
+            "show": "云播G线",
+            "parse": "https://auete.com/api/?url=",
+            "sn": 1,
+            "or": 999
+        },
+        "hyun": {
+            "show": "云播H线",
+            "parse": "https://auete.com/api/?url=",
+            "sn": 1,
+            "or": 999
+        },
+        "kyun": {
+            "show": "云播K线",
+            "parse": "https://auete.com/api/?url=",
+            "sn": 1,
+            "or": 999
+        },
+        "bpyueyu": {
+            "show": "云播粤语",
+            "parse": "",
+            "sn": 0,
+            "or": 999
+        },
+        "bpguoyu": {
+            "show": "云播国语",
+            "parse": "",
+            "sn": 0,
+            "or": 999
+        },
+        "lyun": {
+            "show": "云播L线",
+            "parse": "https://auete.com/api/?url=",
+            "sn": 1,
+            "or": 999
+        },
+        "myun": {
+            "show": "云播M线",
+            "parse": "",
+            "sn": 0,
+            "or": 999
+        },
+        "dp": {
+            "show": "Dplayer",
+            "parse": "",
+            "sn": 0,
+            "or": 999
+        }
+    },
+    "filter": {
+        "Movie": [
+            {
+                "key": 0,
+                "name": "分类",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": ""
+                    },
+                    {
+                        "n": "喜剧片",
+                        "v": "xjp"
+                    },
+                    {
+                        "n": "动作片",
+                        "v": "dzp"
+                    },
+                    {
+                        "n": "爱情片",
+                        "v": "aqp"
+                    },
+                    {
+                        "n": "科幻片",
+                        "v": "khp"
+                    },
+                    {
+                        "n": "恐怖片",
+                        "v": "kbp"
+                    },
+                    {
+                        "n": "惊悚片",
+                        "v": "jsp"
+                    },
+                    {
+                        "n": "战争片",
+                        "v": "zzp"
+                    },
+                    {
+                        "n": "剧情片",
+                        "v": "jqp"
+                    }
+                ]
+            }
+        ],
+        "Tv": [
+            {
+                "key": 0,
+                "name": "分类",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": ""
+                    },
+                    {
+                        "n": "美剧",
+                        "v": "oumei"
+                    },
+                    {
+                        "n": "韩剧",
+                        "v": "hanju"
+                    },
+                    {
+                        "n": "日剧",
+                        "v": "riju"
+                    },
+                    {
+                        "n": "泰剧",
+                        "v": "yataiju"
+                    },
+                    {
+                        "n": "网剧",
+                        "v": "wangju"
+                    },
+                    {
+                        "n": "台剧",
+                        "v": "taiju"
+                    },
+                    {
+                        "n": "国产",
+                        "v": "neidi"
+                    },
+                    {
+                        "n": "港剧",
+                        "v": "tvbgj"
+                    }
+                ]
+            }
+        ],
+        "Zy": [
+            {
+                "key": 0,
+                "name": "分类",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": ""
+                    },
+                    {
+                        "n": "国综",
+                        "v": "guozong"
+                    },
+                    {
+                        "n": "韩综",
+                        "v": "hanzong"
+                    },
+                    {
+                        "n": "美综",
+                        "v": "meizong"
+                    }
+                ]
+            }
+        ],
+        "Dm": [
+            {
+                "key": 0,
+                "name": "分类",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": ""
+                    },
+                    {
+                        "n": "动画",
+                        "v": "donghua"
+                    },
+                    {
+                        "n": "日漫",
+                        "v": "riman"
+                    },
+                    {
+                        "n": "国漫",
+                        "v": "guoman"
+                    },
+                    {
+                        "n": "美漫",
+                        "v": "meiman"
+                    }
+                ]
+            }
+        ],
+        "qita": [
+            {
+                "key": 0,
+                "name": "分类",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": ""
+                    },
+                    {
+                        "n": "纪录片",
+                        "v": "Jlp"
+                    },
+                    {
+                        "n": "经典片",
+                        "v": "Jdp"
+                    },
+                    {
+                        "n": "经典剧",
+                        "v": "Jdj"
+                    },
+                    {
+                        "n": "网大电影",
+                        "v": "wlp"
+                    },
+                    {
+                        "n": "国产老电影",
+                        "v": "laodianying"
+                    }
+                ]
+            }
+        ]
+    }
+}
