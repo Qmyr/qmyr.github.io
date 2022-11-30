@@ -4,8 +4,7 @@
             "show": "VOFLIX",
             "des": "",
             "ps": "0",
-            "parse": "https://sh-data-s02.chinaeast2.cloudapp.chinacloudapi.cn/lb.php?url="
-            //"parse": "https://play.shcpin.com/xplay/?url="
+            "parse": "https://play.shcpin.com/xplay/?url="
         },
         "LINE406": {
             "show": "LINE406",
