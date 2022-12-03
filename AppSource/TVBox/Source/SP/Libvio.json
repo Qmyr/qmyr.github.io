@@ -2,37 +2,37 @@
     "player": {
         "ali": {
             "show": "AI播放",
-            "parse": "https://sh-data-s02.chinaeast2.cloudapp.chinacloudapi.cn/ai.php?url=",
+            "parse": "https://p.cfnode1.xyz/ai.php?url=",
             "sn": 1,
             "or": 999
         },
         "yr": {
             "show": "LIBVIO",
-            "parse": "https://sh-data-s02.chinaeast2.cloudapp.chinacloudapi.cn/ai.php?url=",
+            "parse": "https://p.cfnode1.xyz/ai.php?url=",
             "sn": 1,
             "or": 999
         },
         "app": {
             "show": "LINEAPP",
-            "parse": "https://sh-data-s02.chinaeast2.cloudapp.chinacloudapi.cn/ai.php?url=",
+            "parse": "https://p.cfnode1.xyz/ai.php?url=",
             "sn": 1,
             "or": 999
         },
         "duoduozy": {
             "show": "LINE100",
-            "parse": "https://sh-data-s02.chinaeast2.cloudapp.chinacloudapi.cn/lb.php?url=",
+            "parse": "https://p.cfnode1.xyz/lb.php?url=",
             "sn": 1,
             "or": 999
         },
         "LINE1080": {
             "show": "LINE1080",
-            "parse": "https://sh-data-s02.chinaeast2.cloudapp.chinacloudapi.cn/lb.php?url=",
+            "parse": "https://p.cfnode1.xyz/lb.php?url=",
             "sn": 1,
             "or": 999
         },
         "LINE400": {
             "show": "LINE400",
-            "parse": "https://sh-data-s02.chinaeast2.cloudapp.chinacloudapi.cn/lb.php?url=",
+            "parse": "https://p.cfnode1.xyz/lb.php?url=",
             "sn": 1,
             "or": 999
         },
@@ -44,25 +44,25 @@
         },
         "line402-日语": {
             "show": "LINE402",
-            "parse": "https://sh-data-s02.chinaeast2.cloudapp.chinacloudapi.cn/lb.php?url=",
+            "parse": "https://p.cfnode1.xyz/lb.php?url=",
             "sn": 1,
             "or": 999
         },
         "LINE405": {
             "show": "HD播放",
-            "parse": "https://sh-data-s02.chinaeast2.cloudapp.chinacloudapi.cn/lb.php?url=",
+            "parse": "https://p.cfnode1.xyz/lb.php?url=",
             "sn": 1,
             "or": 999
         },
         "LINE406": {
             "show": "LINE406",
-            "parse": "https://sh-data-s02.chinaeast2.cloudapp.chinacloudapi.cn/zm.php?url=",
+            "parse": "https://p.cfnode1.xyz/zm.php?url=",
             "sn": 1,
             "or": 999
         },
         "LINE407": {
             "show": "LINE407",
-            "parse": "https://sh-data-s02.chinaeast2.cloudapp.chinacloudapi.cn/lb.php?url=",
+            "parse": "https://p.cfnode1.xyz/lb.php?url=",
             "sn": 1,
             "or": 999
         },
