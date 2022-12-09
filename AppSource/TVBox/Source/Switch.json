@@ -2,6 +2,7 @@
     "IsRecodeLog": false,
     "ForceChangeApiUrl": false,
     "ApiUrl": "",
+    "AppName": 0,
     "HomeSite": "",
     "PlayMode": 0,
     "HomeStyle": 0,
