@@ -4,85 +4,85 @@
             "show": "蓝光专线①",
             "des": "",
             "ps": "0",
-            "parse": "https://jx1.bw66.xyz/player/analysis.php?v="
+            "parse": "https://jx1.bw66.xyz/player/?url="
         },
         "lg": {
             "show": "蓝光专线⑤",
             "des": "",
             "ps": "0",
-            "parse": "https://jx1.bw66.xyz/player/analysis.php?v="
+            "parse": "https://jx1.bw66.xyz/player/?url="
         },
         "lg1": {
             "show": "蓝光专线⑥",
             "des": "",
             "ps": "0",
-            "parse": "https://jx1.bw66.xyz/player/analysis.php?v="
+            "parse": "https://jx1.bw66.xyz/player/?url="
         },
         "qq": {
             "show": "TX节点",
             "des": "",
             "ps": "1",
-            "parse": "https://jx1.bw66.xyz/player/analysis.php?v="
+            "parse": "https://jx1.bw66.xyz/player/?url="
         },
         "qiyi": {
             "show": "QY节点",
             "des": "",
             "ps": "1",
-            "parse": "https://jx1.bw66.xyz/player/analysis.php?v="
+            "parse": "https://jx1.bw66.xyz/player/?url="
         },
         "sohu": {
             "show": "搜狐",
             "des": "",
             "ps": "1",
-            "parse": "https://jx1.bw66.xyz/player/analysis.php?v="
+            "parse": "https://jx1.bw66.xyz/player/?url="
         },
         "youku": {
             "show": "YK节点",
             "des": "",
             "ps": "1",
-            "parse": "https://jx1.bw66.xyz/player/analysis.php?v="
+            "parse": "https://jx1.bw66.xyz/player/?url="
         },
         "bilibili": {
             "show": "bilibili",
             "des": "",
             "ps": "1",
-            "parse": "https://jx1.bw66.xyz/player/analysis.php?v="
+            "parse": "https://jx1.bw66.xyz/player/?url="
         },
         "mgtv": {
             "show": "芒果TV",
             "des": "",
             "ps": "1",
-            "parse": "https://jx1.bw66.xyz/player/analysis.php?v="
+            "parse": "https://jx1.bw66.xyz/player/?url="
         },
         "xigua": {
             "show": "西瓜视频",
             "des": "",
             "ps": "1",
-            "parse": "https://jx1.bw66.xyz/player/analysis.php?v="
+            "parse": "https://jx1.bw66.xyz/player/?url="
         },
         "ffm3u8": {
             "show": "极速-01",
             "des": "",
             "ps": "0",
-            "parse": "https://jx1.bw66.xyz/player/analysis.php?v="
+            "parse": "https://jx1.bw66.xyz/player/?url="
         },
         "1080zyk": {
             "show": "极速播放",
             "des": "",
             "ps": "1",
-            "parse": "https://jx1.bw66.xyz/player/analysis.php?v="
+            "parse": "https://jx1.bw66.xyz/player/?url="
         },
         "lzm3u8": {
             "show": "在线观看",
             "des": "",
             "ps": "1",
-            "parse": "https://jx1.bw66.xyz/player/analysis.php?v="
+            "parse": "https://jx1.bw66.xyz/player/?url="
         },
         "wjm3u8": {
             "show": "高速云播",
             "des": "",
             "ps": "1",
-            "parse": "https://jx1.bw66.xyz/player/analysis.php?v="
+            "parse": "https://jx1.bw66.xyz/player/?url="
         }
     },
     "filter": {
