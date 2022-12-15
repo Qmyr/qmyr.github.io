@@ -1,22 +1,23 @@
 {
+    "api": "https://www.codjx.com/API.php",
     "player": {
         "BYGA": {
             "show": "蓝光专线①",
             "des": "",
             "ps": "0",
-            "parse": "https://jx1.bw66.xyz/player/?url="
+            "parse": "https://www.codjx.com/?url="
         },
         "lg": {
             "show": "蓝光专线⑤",
             "des": "",
             "ps": "0",
-            "parse": "https://jx1.bw66.xyz/player/?url="
+            "parse": "https://jx1.bw66.xyz/m3u8/?url="
         },
         "lg1": {
             "show": "蓝光专线⑥",
             "des": "",
             "ps": "0",
-            "parse": "https://jx1.bw66.xyz/player/?url="
+            "parse": "https://jx1.bw66.xyz/m3u8/?url="
         },
         "qq": {
             "show": "TX节点",
