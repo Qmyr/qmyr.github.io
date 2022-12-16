@@ -14,7 +14,7 @@
         },
         "cyun": {
             "show": "云播C线",
-            "parse": "https://auete.com/js/player/dplayer/dplayer.html?videourl=",
+            "parse": "",
             "sn": 0,
             "or": 999
         },
