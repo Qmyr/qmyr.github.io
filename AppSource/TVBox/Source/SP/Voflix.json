@@ -4,7 +4,8 @@
             "show": "VOFLIX_国内",
             "des": "",
             "ps": "0",
-            "parse": "https://play.shcpin.com/xplay/?url="
+            "parse": "https://play.goodjson.top/xplay/?url="
+            //"parse": "https://play.shcpin.com/xplay/?url="
         },
         "LINE406": {
             "show": "LINE406",
