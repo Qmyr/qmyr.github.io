@@ -2,13 +2,13 @@
     "player": {
         "line4": {
             "show": "播放线路4",
-            "parse": "https://jx.zxzj.vip/line4.php?url=",
+            "parse": "https://www.zxzj.pro/line4.php?url=",
             "sn": 1,
             "or": 999
         },
         "line3": {
             "show": "播放线路3",
-            "parse": "https://jx.zxzj.vip/line3.php?url=",
+            "parse": "https://www.zxzj.pro/line3.php?url=",
             "sn": 1,
             "or": 999
         }
