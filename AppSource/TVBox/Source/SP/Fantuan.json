@@ -4,97 +4,97 @@
             "show": "app全局解析",
             "or": 999,
             "ps": "1",
-            "parse": ""
+            "parse": "https://api.goodjson.top/?url="
         },
         "duoduozy": {
             "show": "自营极速",
             "or": 999,
             "ps": "0",
-            "parse": ""
+            "parse": "https://api.goodjson.top/?url="
         },
         "uploadixigua": {
             "show": "自营蓝光",
             "or": 999,
             "ps": "0",
-            "parse": ""
+            "parse": "https://api.goodjson.top/?url="
         },
         "gpmp4": {
             "show": "自营超清",
             "or": 999,
             "ps": "0",
-            "parse": ""
+            "parse": "https://api.goodjson.top/?url="
         },
         "rx": {
             "show": "融兴线路",
             "or": 999,
             "ps": "0",
-            "parse": ""
+            "parse": "https://api.goodjson.top/?url="
         },
         "xigua": {
             "show": "西瓜高清",
             "or": 999,
             "ps": "0",
-            "parse": ""
+            "parse": "https://api.goodjson.top/?url="
         },
         "mgtv": {
             "show": "芒果高清",
             "or": 999,
             "ps": "0",
-            "parse": ""
+            "parse": "https://api.goodjson.top/?url="
         },
         "qq": {
             "show": "腾讯高清",
             "or": 999,
             "ps": "0",
-            "parse": ""
+            "parse": "https://api.goodjson.top/?url="
         },
         "youku": {
             "show": "优酷高清",
             "or": 999,
             "ps": "0",
-            "parse": ""
+            "parse": "https://api.goodjson.top/?url="
         },
         "qiyi": {
             "show": "奇艺高清",
             "or": 999,
             "ps": "0",
-            "parse": ""
+            "parse": "https://api.goodjson.top/?url="
         },
         "pptv": {
             "show": "PPTV",
             "or": 999,
             "ps": "0",
-            "parse": ""
+            "parse": "https://api.goodjson.top/?url="
         },
         "letv": {
             "show": "乐视云",
             "or": 999,
             "ps": "0",
-            "parse": ""
+            "parse": "https://api.goodjson.top/?url="
         },
         "sohu": {
             "show": "搜狐云",
             "or": 999,
             "ps": "0",
-            "parse": ""
+            "parse": "https://api.goodjson.top/?url="
         },
         "bilibili": {
             "show": "哔哩云",
             "or": 999,
             "ps": "0",
-            "parse": ""
+            "parse": "https://api.goodjson.top/?url="
         },
         "dbm3u8": {
             "show": "百度云",
             "des": "在线播放",
             "ps": "0",
-            "parse": ""
+            "parse": "https://api.goodjson.top/?url="
         },
         "tkm3u8": {
             "show": "天空云",
             "des": "天空播放器",
             "ps": "0",
-            "parse": ""
+            "parse": "https://api.goodjson.top/?url="
         },
         "dplayer": {
             "show": "DPlayer-H5播放器",
@@ -142,37 +142,37 @@
             "show": "北斗云",
             "des": "在线播放",
             "ps": "0",
-            "parse": ""
+            "parse": "https://api.goodjson.top/?url="
         },
         "lym3u8": {
             "show": "老鸭资源",
             "des": "在线播放",
             "ps": "0",
-            "parse": ""
+            "parse": "https://api.goodjson.top/?url="
         },
         "aliplayer": {
             "show": "阿里云播放器",
             "or": 999,
             "ps": "0",
-            "parse": ""
+            "parse": "https://api.goodjson.top/?url="
         },
         "hnm3u8": {
             "show": "红牛云",
             "or": 999,
             "ps": "0",
-            "parse": ""
+            "parse": "https://api.goodjson.top/?url="
         },
         "kbm3u8": {
             "show": "快播云",
             "or": 999,
             "ps": "0",
-            "parse": ""
+            "parse": "https://api.goodjson.top/?url="
         },
         "wjm3u8": {
             "show": "无尽备用",
             "or": 999,
             "ps": "0",
-            "parse": ""
+            "parse": "https://api.goodjson.top/?url="
         }
     },
     "filter": {
