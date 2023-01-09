@@ -4,55 +4,55 @@
             "show": "自建蓝光",
             "des": "",
             "ps": "0",
-            "parse": "https://www.lgyy.cc/static/player/dplayer.php?url="
+            "parse": "https://www.lgyy.tv/static/player/dplayer.php?url="
         },
         "ysgc": {
             "show": "蓝光专线",
             "des": "/static/images/ico/newysgc.png",
             "ps": "0",
-            "parse": "https://www.lgyy.cc/static/player/dplayer.php?url="
+            "parse": "https://www.lgyy.tv/static/player/dplayer.php?url="
         },
         "sohu": {
             "show": "搜狐",
             "des": "",
             "ps": "0",
-            "parse": "https://www.lgyy.cc/static/player/sohu.php?url="
+            "parse": "https://www.lgyy.tv/static/player/sohu.php?url="
         },
         "qq": {
             "show": "腾讯",
             "des": "",
             "ps": "0",
-            "parse": "https://www.lgyy.cc/static/player/qq.php?url="
+            "parse": "https://www.lgyy.tv/static/player/qq.php?url="
         },
         "bilibili": {
             "show": "哔哩",
             "des": "",
             "ps": "0",
-            "parse": "https://www.lgyy.cc/static/player/bilibili.php?url="
+            "parse": "https://www.lgyy.tv/static/player/bilibili.php?url="
         },
         "youku": {
             "show": "优酷",
             "des": "",
             "ps": "0",
-            "parse": "https://www.lgyy.cc/static/player/youku.php?url="
+            "parse": "https://www.lgyy.tv/static/player/youku.php?url="
         },
         "qiyi": {
             "show": "爱奇艺",
             "des": "",
             "ps": "0",
-            "parse": "https://www.lgyy.cc/static/player/qiyi.php?url="
+            "parse": "https://www.lgyy.tv/static/player/qiyi.php?url="
         },
         "mgtv": {
             "show": "芒果",
             "des": "",
             "ps": "0",
-            "parse": "https://www.lgyy.cc/static/player/mgtv.php?url="
+            "parse": "https://www.lgyy.tv/static/player/mgtv.php?url="
         },
         "xigua": {
             "show": "西瓜",
             "des": "",
             "ps": "0",
-            "parse": "https://www.lgyy.cc/static/player/xigua.php?url="
+            "parse": "https://www.lgyy.tv/static/player/xigua.php?url="
         },
         "pptv": {
             "show": "PPTV",
