@@ -12,6 +12,12 @@
             "ps": "0",
             "parse": "https://api.goodjson.top/?url="
         },
+        "weishi": {
+            "show": "自营蓝光",
+            "or": 999,
+            "ps": "0",
+            "parse": "https://api.goodjson.top/?url="
+        },
         "uploadixigua": {
             "show": "自营蓝光",
             "or": 999,
