@@ -1,19 +1,37 @@
 {
     "player": {
-        "cokemv0555": {
-            "show": "COKEMV",
+        "ffm3u8": {
+            "show": "藍光路线(暫時)",
             "parse": "",
             "sn": 0,
             "or": 999
         },
-        "cokeqie01": {
+        "cokebb": {
             "show": "極速路線",
             "parse": "",
             "sn": 0,
             "or": 999
         },
-        "xin": {
+        "cokemv": {
             "show": "高速路線",
+            "parse": "",
+            "sn": 0,
+            "or": 999
+        },
+        "cokemv001": {
+            "show": "海外線路",
+            "parse": "https://cokemv.me/player/?url=",
+            "sn": 0,
+            "or": 999
+        },
+        "haiwaikan": {
+            "show": "海外線路",
+            "parse": "",
+            "sn": 0,
+            "or": 999
+        },
+        "mp4": {
+            "show": "藍光路线",
             "parse": "",
             "sn": 0,
             "or": 999
@@ -24,32 +42,20 @@
             "sn": 0,
             "or": 999
         },
-        "90mm": {
-            "show": "藍光號路",
-            "parse": "",
-            "sn": 0,
-            "or": 999
-        },
-        "age01": {
-            "show": "動漫一線",
-            "parse": "",
-            "sn": 0,
-            "or": 999
-        },
-        "age02": {
-            "show": "動漫二線",
-            "parse": "",
-            "sn": 0,
-            "or": 999
-        },
-        "mahua": {
+        "if101": {
             "show": "海外(禁國內)",
+            "parse": "https://cd.cokemv.me/player/?url=",
+            "sn": 0,
+            "or": 999
+        },
+        "777_": {
+            "show": "十三號線路",
             "parse": "",
             "sn": 0,
             "or": 999
         },
-        "toutiao": {
-            "show": "蓝光不卡",
+        "luanzi": {
+            "show": "测试线路",
             "parse": "",
             "sn": 0,
             "or": 999
