@@ -1,14 +1,56 @@
 {
     "player": {
+        "lep": {
+            "show": "播放线路3",
+            "parse": "https://www.zxzj.pro/line4.php?url=",
+            "sn": 1,
+            "or": 999
+        },
         "line4": {
             "show": "播放线路4",
             "parse": "https://www.zxzj.pro/line4.php?url=",
             "sn": 1,
             "or": 999
         },
-        "line3": {
-            "show": "播放线路3",
-            "parse": "https://www.zxzj.pro/line3.php?url=",
+        "dpp": {
+            "show": "DP播放",
+            "parse": "https://www.zxzj.pro/line4.php?url=",
+            "sn": 1,
+            "or": 999
+        },
+        "ck": {
+            "show": "CK播放器",
+            "parse": "https://www.zxzj.pro/line4.php?url=",
+            "sn": 1,
+            "or": 999
+        },
+        "ty2": {
+            "show": "ty2播放",
+            "parse": "https://www.zxzj.pro/line4.php?url=",
+            "sn": 1,
+            "or": 999
+        },
+        "ty189": {
+            "show": "ty189",
+            "parse": "https://www.zxzj.pro/line4.php?url=",
+            "sn": 1,
+            "or": 999
+        },
+        "xunleiyp": {
+            "show": "迅雷云盘",
+            "parse": "https://www.zxzj.pro/line4.php?url=",
+            "sn": 1,
+            "or": 999
+        },
+        "yunpan": {
+            "show": "百度云盘",
+            "parse": "https://www.zxzj.pro/line4.php?url=",
+            "sn": 1,
+            "or": 999
+        },
+        "kuake": {
+            "show": "夸克网盘",
+            "parse": "https://www.zxzj.pro/line4.php?url=",
             "sn": 1,
             "or": 999
         }
