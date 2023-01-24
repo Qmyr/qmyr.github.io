@@ -33,43 +33,43 @@
         "qq": {
             "show": "TX节点",
             "des": "",
-            "ps": "1",
+            "ps": "0",
             "parse": "https://jx1.idcdr.com/player/?url="
         },
         "qiyi": {
             "show": "QY节点",
             "des": "",
-            "ps": "1",
+            "ps": "0",
             "parse": "https://jx1.idcdr.com/player/?url="
         },
         "sohu": {
             "show": "搜狐",
             "des": "",
-            "ps": "1",
+            "ps": "0",
             "parse": "https://jx1.idcdr.com/111/444/?url="
         },
         "youku": {
             "show": "YK节点",
             "des": "",
-            "ps": "1",
+            "ps": "0",
             "parse": "https://jx1.idcdr.com/player/?url="
         },
         "bilibili": {
             "show": "bilibili",
             "des": "",
-            "ps": "1",
+            "ps": "0",
             "parse": "https://jx1.idcdr.com/111/444/?url="
         },
         "mgtv": {
             "show": "芒果TV",
             "des": "",
-            "ps": "1",
+            "ps": "0",
             "parse": "https://jx1.idcdr.com/player/?url="
         },
         "xigua": {
             "show": "西瓜视频",
             "des": "",
-            "ps": "1",
+            "ps": "0",
             "parse": "https://jx1.bw66.xyz/111/444/?url="
         },
         "ffm3u8": {
@@ -81,19 +81,19 @@
         "1080zyk": {
             "show": "极速播放",
             "des": "",
-            "ps": "1",
+            "ps": "0",
             "parse": "https://jx1.idcdr.com/m3u8/?url="
         },
         "lzm3u8": {
             "show": "在线观看",
             "des": "",
-            "ps": "1",
+            "ps": "0",
             "parse": "https://jx1.idcdr.com/m3u8/?url="
         },
         "wjm3u8": {
             "show": "高速云播",
             "des": "",
-            "ps": "1",
+            "ps": "0",
             "parse": "https://jx1.idcdr.com/m3u8/?url="
         }
     },
