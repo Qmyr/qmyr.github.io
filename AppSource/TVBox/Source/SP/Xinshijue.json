@@ -47,7 +47,7 @@
             "des": "",
             "ps": 0,
             "api": "https://jx1.idcdr.com/m3u8/API.php",
-            "parse": "https://jx1.idcdr.com/player/?url="
+            "parse": "https://jx1.idcdr.com/m3u8/?url="
         },
         "sohu": {
             "show": "搜狐",
