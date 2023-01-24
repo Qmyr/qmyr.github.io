@@ -3,67 +3,78 @@
         "csm3u8": {
             "show": "自建一",
             "des": "",
-            "ps": "1",
+            "ps": 0,
+            "api": "https://jx.m3u8zy.fun",
             "parse": "https://jx.m3u8zy.fun/nk.php?url="
         },
         "csyun": {
             "show": "自建二",
             "des": "",
-            "ps": "1",
+            "ps": 0,
+            "api": "https://jx.m3u8zy.fun",
             "parse": "https://jx.m3u8zy.fun/nk.php?url="
         },
         "ccsm3u8": {
             "show": "自建三",
             "des": "",
-            "ps": "1",
+            "ps": 0,
+            "api": "https://jx.m3u8zy.fun",
             "parse": "https://jx.qqqjx.com/?url="
         },
         "qq": {
             "show": "腾讯视频",
             "des": "",
-            "ps": "1",
+            "ps": 0,
+            "api": "https://jx.m3u8zy.fun",
             "parse": "https://jx.qqqjx.com/?url="
         },
         "qiyi": {
             "show": "奇艺视频",
             "des": "",
-            "ps": "1",
+            "ps": 0,
+            "api": "https://jx.m3u8zy.fun",
             "parse": "https://jx.qqqjx.com/?url="
         },
         "youku": {
             "show": "优酷视频",
             "des": "",
-            "ps": "1",
+            "ps": 0,
+            "api": "https://jx.m3u8zy.fun",
             "parse": "https://jx.jsonplayer.com/player/?url="
         },
         "mgtv": {
             "show": "芒果视频",
             "des": "",
-            "ps": "1",
+            "ps": 0,
+            "api": "https://jx.m3u8zy.fun",
             "parse": "https://jx.jsonplayer.com/player/?url="
         },
         "bilibili": {
             "show": "B站",
             "des": "",
-            "ps": "1",
+            "ps": 0,
+            "api": "https://jx.m3u8zy.fun",
             "parse": "https://jx.jsonplayer.com/player/?url="
         },
         "lzm3u8": {
             "show": "第三方",
             "des": "",
-            "ps": "1",
+            "ps": 0,
+            "api": "https://jx.m3u8zy.fun",
             "parse": "https://op.m3u8zy.fun/?url="
         },
         "gsm3u8": {
             "show": "第四方",
             "des": "",
-            "ps": "1",
+            "ps": 0,
+            "api": "https://jx.m3u8zy.fun",
             "parse": "https://op.m3u8zy.fun/?url="
         },
         "wjm3u8": {
             "show": "云播一",
             "des": "",
-            "ps": "1",
+            "ps": 0,
+            "api": "https://jx.m3u8zy.fun",
             "parse": "https://www.lkvod.com/addons/dplayer/?url="
         }
     },
