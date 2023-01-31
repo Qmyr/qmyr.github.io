@@ -2,81 +2,99 @@
     "player": {
         "xg_app_player": {
             "show": "app全局播放器",
-            "des": "",
-            "ps": "1",
-            "parse": "https://www.x-n.cc/api.php?url="
+            "parse": "https://player.tjomet.com/ysgc/?url=",
+            "ps": "0",
+            "or": 999
         },
         "duoduozy": {
             "show": "极速蓝光",
-            "des": "/static/images/ico/ysgc.png",
+            "parse": "https://player.tjomet.com/ysgc/?url=",
             "ps": "0",
-            "parse": ""
+            "or": 999
         },
         "ysgc": {
             "show": "工场专线",
-            "des": "/static/images/ico/newysgc.png",
+            "parse": "https://player.tjomet.com/ysgc/?url=",
             "ps": "0",
-            "parse": ""
+            "or": 999
+        },
+        "ffm3u8": {
+            "show": "非凡资源",
+            "parse": "https://www.ysgc.vip/static/player/ffzy.php?url=",
+            "ps": "0",
+            "or": 999
+        },
+        "lzm3u8": {
+            "show": "量子资源",
+            "parse": "https://www.ysgc.vip/static/player/lzzy.php?url=",
+            "ps": "0",
+            "or": 999
+        },
+        "qie": {
+            "show": "人人资源",
+            "parse": "https://www.ysgc.vip/static/player/rrzy.php?url=",
+            "ps": "0",
+            "or": 999
         },
         "sohu": {
             "show": "搜狐视频",
-            "des": "/static/images/ico/sohu.png",
+            "parse": "https://player.tjomet.com/ysgc/?url=",
             "ps": "0",
-            "parse": ""
+            "or": 999
         },
         "qq": {
             "show": "腾讯视频",
-            "des": "/static/images/ico/qq.png",
+            "parse": "https://player.tjomet.com/ysgc/?url=",
             "ps": "0",
-            "parse": ""
+            "or": 999
         },
         "bilibili": {
             "show": "哔哩哔哩",
-            "des": "/static/images/ico/bili.png",
+            "parse": "https://player.tjomet.com/ysgc/?url=",
             "ps": "0",
-            "parse": ""
+            "or": 999
         },
         "youku": {
             "show": "优酷视频",
-            "des": "/static/images/ico/youku.png",
+            "parse": "https://player.tjomet.com/ysgc/?url=",
             "ps": "0",
-            "parse": ""
+            "or": 999
         },
         "qiyi": {
             "show": "爱奇艺",
-            "des": "/static/images/ico/iqiyi.png",
+            "parse": "https://player.tjomet.com/ysgc/?url=",
             "ps": "0",
-            "parse": ""
+            "or": 999
         },
         "mgtv": {
             "show": "芒果TV",
-            "des": "/static/images/ico/mgtv.png",
+            "parse": "https://player.tjomet.com/ysgc/?url=",
             "ps": "0",
-            "parse": ""
+            "or": 999
         },
         "xigua": {
             "show": "西瓜视频",
-            "des": "/static/images/ico/xigua.png",
+            "parse": "https://player.tjomet.com/ysgc/?url=",
             "ps": "0",
-            "parse": ""
+            "or": 999
         },
         "pptv": {
             "show": "PPTV",
-            "des": "",
+            "parse": "https://player.tjomet.com/ysgc/?url=",
             "ps": "0",
-            "parse": ""
+            "or": 999
         },
         "zhibo": {
             "show": "直播线路",
-            "des": "",
+            "parse": "https://player.tjomet.com/ysgc/?url=",
             "ps": "0",
-            "parse": ""
+            "or": 999
         },
         "wjm3u8": {
             "show": "无尽资源",
-            "des": "/static/images/ico/wj.jpg",
+            "parse": "https://player.tjomet.com/ysgc/?url=",
             "ps": "0",
-            "parse": ""
+            "or": 999
         }
     },
     "filter": {
