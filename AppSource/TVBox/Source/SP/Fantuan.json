@@ -2,183 +2,183 @@
     "player": {
         "xg_app_player": {
             "show": "app全局解析",
-            "or": 999,
-            "ps": "1",
-            "parse": "https://api.goodjson.top/?url="
-        },
-        "duoduozy": {
-            "show": "自营极速",
-            "or": 999,
+            "parse": "https://api.goodjson.top/?url=",
             "ps": "0",
-            "parse": "https://api.goodjson.top/?url="
-        },
-        "weishi": {
-            "show": "自营蓝光",
-            "or": 999,
-            "ps": "0",
-            "parse": "https://api.goodjson.top/?url="
-        },
-        "uploadixigua": {
-            "show": "自营蓝光",
-            "or": 999,
-            "ps": "0",
-            "parse": "https://api.goodjson.top/?url="
-        },
-        "gpmp4": {
-            "show": "自营超清",
-            "or": 999,
-            "ps": "0",
-            "parse": "https://api.goodjson.top/?url="
-        },
-        "rx": {
-            "show": "融兴线路",
-            "or": 999,
-            "ps": "0",
-            "parse": "https://api.goodjson.top/?url="
-        },
-        "xigua": {
-            "show": "西瓜高清",
-            "or": 999,
-            "ps": "0",
-            "parse": "https://api.goodjson.top/?url="
-        },
-        "mgtv": {
-            "show": "芒果高清",
-            "or": 999,
-            "ps": "0",
-            "parse": "https://api.goodjson.top/?url="
-        },
-        "qq": {
-            "show": "腾讯高清",
-            "or": 999,
-            "ps": "0",
-            "parse": "https://api.goodjson.top/?url="
-        },
-        "youku": {
-            "show": "优酷高清",
-            "or": 999,
-            "ps": "0",
-            "parse": "https://api.goodjson.top/?url="
-        },
-        "qiyi": {
-            "show": "奇艺高清",
-            "or": 999,
-            "ps": "0",
-            "parse": "https://api.goodjson.top/?url="
-        },
-        "pptv": {
-            "show": "PPTV",
-            "or": 999,
-            "ps": "0",
-            "parse": "https://api.goodjson.top/?url="
-        },
-        "letv": {
-            "show": "乐视云",
-            "or": 999,
-            "ps": "0",
-            "parse": "https://api.goodjson.top/?url="
-        },
-        "sohu": {
-            "show": "搜狐云",
-            "or": 999,
-            "ps": "0",
-            "parse": "https://api.goodjson.top/?url="
-        },
-        "bilibili": {
-            "show": "哔哩云",
-            "or": 999,
-            "ps": "0",
-            "parse": "https://api.goodjson.top/?url="
-        },
-        "dbm3u8": {
-            "show": "百度云",
-            "des": "在线播放",
-            "ps": "0",
-            "parse": "https://api.goodjson.top/?url="
-        },
-        "tkm3u8": {
-            "show": "天空云",
-            "des": "天空播放器",
-            "ps": "0",
-            "parse": "https://api.goodjson.top/?url="
-        },
-        "dplayer": {
-            "show": "DPlayer-H5播放器",
-            "des": "dplayer.js.org",
-            "ps": "0",
-            "parse": ""
-        },
-        "videojs": {
-            "show": "videojs-H5播放器",
-            "des": "videojs.com",
-            "ps": "0",
-            "parse": ""
-        },
-        "iva": {
-            "show": "iva-H5播放器",
-            "des": "videojj.com",
-            "ps": "0",
-            "parse": ""
-        },
-        "iframe": {
-            "show": "iframe外链数据",
-            "des": "iframe外链数据",
-            "ps": "0",
-            "parse": ""
-        },
-        "link": {
-            "show": "外链数据",
-            "des": "外部网站播放链接",
-            "ps": "0",
-            "parse": ""
-        },
-        "swf": {
-            "show": "Flash文件",
-            "des": "swf",
-            "ps": "0",
-            "parse": ""
-        },
-        "flv": {
-            "show": "Flv文件",
-            "des": "flv",
-            "ps": "0",
-            "parse": ""
-        },
-        "bdxm3u8": {
-            "show": "北斗云",
-            "des": "在线播放",
-            "ps": "0",
-            "parse": "https://api.goodjson.top/?url="
-        },
-        "lym3u8": {
-            "show": "老鸭资源",
-            "des": "在线播放",
-            "ps": "0",
-            "parse": "https://api.goodjson.top/?url="
+            "or": 999
         },
         "aliplayer": {
             "show": "阿里网盘",
-            "or": 999,
+            "parse": "https://api.goodjson.top/?url=",
             "ps": "0",
-            "parse": "https://api.goodjson.top/?url="
+            "or": 999
+        },
+        "duoduozy": {
+            "show": "自营极速",
+            "parse": "https://api.goodjson.top/?url=",
+            "ps": "0",
+            "or": 999
+        },
+        "weishi": {
+            "show": "自营蓝光",
+            "parse": "https://api.goodjson.top/?url=",
+            "ps": "0",
+            "or": 999
+        },
+        "uploadixigua": {
+            "show": "自营蓝光",
+            "parse": "https://api.goodjson.top/?url=",
+            "ps": "0",
+            "or": 999
+        },
+        "gpmp4": {
+            "show": "自营超清",
+            "parse": "https://api.goodjson.top/?url=",
+            "ps": "0",
+            "or": 999
+        },
+        "rx": {
+            "show": "融兴线路",
+            "parse": "https://api.goodjson.top/?url=",
+            "ps": "0",
+            "or": 999
+        },
+        "xigua": {
+            "show": "西瓜高清",
+            "parse": "https://api.goodjson.top/?url=",
+            "ps": "0",
+            "or": 999
+        },
+        "mgtv": {
+            "show": "芒果高清",
+            "parse": "https://api.goodjson.top/?url=",
+            "ps": "0",
+            "or": 999
+        },
+        "qq": {
+            "show": "腾讯高清",
+            "parse": "https://api.goodjson.top/?url=",
+            "ps": "0",
+            "or": 999
+        },
+        "youku": {
+            "show": "优酷高清",
+            "parse": "https://api.goodjson.top/?url=",
+            "ps": "0",
+            "or": 999
+        },
+        "qiyi": {
+            "show": "奇艺高清",
+            "parse": "https://api.goodjson.top/?url=",
+            "ps": "0",
+            "or": 999
+        },
+        "pptv": {
+            "show": "PPTV",
+            "parse": "https://api.goodjson.top/?url=",
+            "ps": "0",
+            "or": 999
+        },
+        "letv": {
+            "show": "乐视云",
+            "parse": "https://api.goodjson.top/?url=",
+            "ps": "0",
+            "or": 999
+        },
+        "sohu": {
+            "show": "搜狐云",
+            "parse": "https://api.goodjson.top/?url=",
+            "ps": "0",
+            "or": 999
+        },
+        "bilibili": {
+            "show": "哔哩云",
+            "parse": "https://api.goodjson.top/?url=",
+            "ps": "0",
+            "or": 999
+        },
+        "dbm3u8": {
+            "show": "百度云",
+            "parse": "",
+            "ps": "0",
+            "or": 999
+        },
+        "tkm3u8": {
+            "show": "天空云",
+            "parse": "",
+            "ps": "0",
+            "or": 999
+        },
+        "bdxm3u8": {
+            "show": "北斗云",
+            "parse": "",
+            "ps": "0",
+            "or": 999
+        },
+        "lym3u8": {
+            "show": "老鸭资源",
+            "parse": "",
+            "ps": "0",
+            "or": 999
         },
         "hnm3u8": {
             "show": "红牛云",
-            "or": 999,
+            "parse": "",
             "ps": "0",
-            "parse": "https://api.goodjson.top/?url="
+            "or": 999
         },
         "kbm3u8": {
             "show": "快播云",
-            "or": 999,
+            "parse": "",
             "ps": "0",
-            "parse": "https://api.goodjson.top/?url="
+            "or": 999
         },
         "wjm3u8": {
             "show": "无尽备用",
-            "or": 999,
+            "parse": "",
             "ps": "0",
-            "parse": "https://api.goodjson.top/?url="
+            "or": 999
+        },
+        "dplayer": {
+            "show": "DPlayer-H5播放器",
+            "parse": "",
+            "ps": "0",
+            "or": 999
+        },
+        "videojs": {
+            "show": "videojs-H5播放器",
+            "parse": "",
+            "ps": "0",
+            "or": 999
+        },
+        "iva": {
+            "show": "iva-H5播放器",
+            "parse": "",
+            "ps": "0",
+            "or": 999
+        },
+        "iframe": {
+            "show": "iframe外链数据",
+            "parse": "",
+            "ps": "0",
+            "or": 999
+        },
+        "link": {
+            "show": "外链数据",
+            "parse": "",
+            "ps": "0",
+            "or": 999
+        },
+        "swf": {
+            "show": "Flash文件",
+            "parse": "",
+            "ps": "0",
+            "or": 999
+        },
+        "flv": {
+            "show": "Flv文件",
+            "parse": "",
+            "ps": "0",
+            "or": 999
         }
     },
     "filter": {
