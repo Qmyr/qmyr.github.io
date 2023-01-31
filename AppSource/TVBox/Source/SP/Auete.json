@@ -3,85 +3,85 @@
         "byun": {
             "show": "云播B线",
             "parse": "",
-            "sn": 0,
+            "ps": "0",
             "or": 999
         },
         "dphd": {
             "show": "云播A线",
             "parse": "",
-            "sn": 0,
+            "ps": "0",
             "or": 999
         },
         "cyun": {
             "show": "云播C线",
             "parse": "",
-            "sn": 0,
+            "ps": "0",
             "or": 999
         },
         "dbm3u8": {
             "show": "云播D线",
             "parse": "",
-            "sn": 0,
+            "ps": "0",
             "or": 999
         },
         "i8i": {
             "show": "云播E线",
             "parse": "",
-            "sn": 0,
+            "ps": "0",
             "or": 999
         },
         "m3u8hd": {
             "show": "云播F线",
             "parse": "https://auete.com/api/?url=",
-            "sn": 1,
+            "ps": "1",
             "or": 999
         },
         "languang": {
             "show": "云播G线",
             "parse": "https://auete.com/api/?url=",
-            "sn": 1,
+            "ps": "1",
             "or": 999
         },
         "hyun": {
             "show": "云播H线",
             "parse": "https://auete.com/api/?url=",
-            "sn": 1,
+            "ps": "1",
             "or": 999
         },
         "kyun": {
             "show": "云播K线",
             "parse": "https://auete.com/api/?url=",
-            "sn": 1,
+            "ps": "1",
             "or": 999
         },
         "bpyueyu": {
             "show": "云播粤语",
             "parse": "",
-            "sn": 0,
+            "ps": "0",
             "or": 999
         },
         "bpguoyu": {
             "show": "云播国语",
             "parse": "",
-            "sn": 0,
+            "ps": "0",
             "or": 999
         },
         "lyun": {
             "show": "云播L线",
             "parse": "https://auete.com/api/?url=",
-            "sn": 1,
+            "ps": "1",
             "or": 999
         },
         "myun": {
             "show": "云播M线",
             "parse": "",
-            "sn": 0,
+            "ps": "0",
             "or": 999
         },
         "dp": {
             "show": "Dplayer",
             "parse": "",
-            "sn": 0,
+            "ps": "0",
             "or": 999
         }
     },
