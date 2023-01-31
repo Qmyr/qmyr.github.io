@@ -2,97 +2,113 @@
     "player": {
         "xg_app_player": {
             "show": "app全局播放器",
-            "parse": "https://player.tjomet.com/ysgc/?url=",
+            "api": "https://player.tjomet.com/ysgc/?url=",
+            "parse": "",
             "ps": "0",
             "or": 999
         },
         "duoduozy": {
             "show": "极速蓝光",
-            "parse": "https://player.tjomet.com/ysgc/?url=",
+            "api": "https://player.tjomet.com/ysgc/?url=",
+            "parse": "",
             "ps": "0",
             "or": 999
         },
         "ysgc": {
             "show": "工场专线",
-            "parse": "https://player.tjomet.com/ysgc/?url=",
+            "api": "https://player.tjomet.com/ysgc/?url=",
+            "parse": "",
             "ps": "0",
             "or": 999
         },
         "ffm3u8": {
             "show": "非凡资源",
-            "parse": "https://www.ysgc.vip/static/player/ffzy.php?url=",
+            "api": "https://player.tjomet.com/ysgc/?url=",
+            "parse": "",
             "ps": "0",
             "or": 999
         },
         "lzm3u8": {
             "show": "量子资源",
-            "parse": "https://www.ysgc.vip/static/player/lzzy.php?url=",
+            "api": "https://player.tjomet.com/ysgc/?url=",
+            "parse": "",
             "ps": "0",
             "or": 999
         },
         "qie": {
             "show": "人人资源",
-            "parse": "https://www.ysgc.vip/static/player/rrzy.php?url=",
+            "api": "https://player.tjomet.com/ysgc/?url=",
+            "parse": "",
             "ps": "0",
             "or": 999
         },
         "sohu": {
             "show": "搜狐视频",
-            "parse": "https://player.tjomet.com/ysgc/?url=",
+            "api": "https://player.tjomet.com/ysgc/?url=",
+            "parse": "",
             "ps": "0",
             "or": 999
         },
         "qq": {
             "show": "腾讯视频",
-            "parse": "https://player.tjomet.com/ysgc/?url=",
+            "api": "https://player.tjomet.com/ysgc/?url=",
+            "parse": "",
             "ps": "0",
             "or": 999
         },
         "bilibili": {
             "show": "哔哩哔哩",
-            "parse": "https://player.tjomet.com/ysgc/?url=",
+            "api": "https://player.tjomet.com/ysgc/?url=",
+            "parse": "",
             "ps": "0",
             "or": 999
         },
         "youku": {
             "show": "优酷视频",
-            "parse": "https://player.tjomet.com/ysgc/?url=",
+            "api": "https://player.tjomet.com/ysgc/?url=",
+            "parse": "",
             "ps": "0",
             "or": 999
         },
         "qiyi": {
             "show": "爱奇艺",
-            "parse": "https://player.tjomet.com/ysgc/?url=",
+            "api": "https://player.tjomet.com/ysgc/?url=",
+            "parse": "",
             "ps": "0",
             "or": 999
         },
         "mgtv": {
             "show": "芒果TV",
-            "parse": "https://player.tjomet.com/ysgc/?url=",
+            "api": "https://player.tjomet.com/ysgc/?url=",
+            "parse": "",
             "ps": "0",
             "or": 999
         },
         "xigua": {
             "show": "西瓜视频",
-            "parse": "https://player.tjomet.com/ysgc/?url=",
+            "api": "https://player.tjomet.com/ysgc/?url=",
+            "parse": "",
             "ps": "0",
             "or": 999
         },
         "pptv": {
             "show": "PPTV",
-            "parse": "https://player.tjomet.com/ysgc/?url=",
+            "api": "https://player.tjomet.com/ysgc/?url=",
+            "parse": "",
             "ps": "0",
             "or": 999
         },
         "zhibo": {
             "show": "直播线路",
-            "parse": "https://player.tjomet.com/ysgc/?url=",
+            "api": "https://player.tjomet.com/ysgc/?url=",
+            "parse": "",
             "ps": "0",
             "or": 999
         },
         "wjm3u8": {
             "show": "无尽资源",
-            "parse": "https://player.tjomet.com/ysgc/?url=",
+            "api": "https://player.tjomet.com/ysgc/?url=",
+            "parse": "",
             "ps": "0",
             "or": 999
         }
