@@ -2,153 +2,135 @@
     "player": {
         "xg_app_player": {
             "show": "app全局解析",
-            "des": "",
-            "ps": "1",
-            "parse": "https://www.x-n.cc/api.php?url="
+            "api": "https://zyz.sdljwomen.com/newduoduo/555tZ4pvzHE3BpiO838.php",
+            "parse": "https://www.x-n.cc/api.php?url=",
+            "ps": "0"
         },
         "duoduozy": {
             "show": "555蓝光",
-            "des": "",
-            "ps": "0",
             "api": "https://zyz.sdljwomen.com/newduoduo/555tZ4pvzHE3BpiO838.php",
-            "parse": "https://zyz.sdljwomen.com/server_player/?url="
+            "parse": "https://zyz.sdljwomen.com/server_player/?url=",
+            "ps": "0"
         },
         "bilibili": {
             "show": "bilibili",
-            "des": "",
-            "ps": "0",
             "api": "https://jhpc.021huaying.com/newplayer/5348837768203767939.php",
-            "parse": "https://jhpc.021huaying.com/newplayer/?url="
+            "parse": "https://jhpc.021huaying.com/newplayer/?url=",
+            "ps": "0"
         },
         "youku": {
             "show": "优酷",
-            "des": "",
-            "ps": "0",
             "api": "https://jhpc.021huaying.com/newplayer/5348837768203767939.php",
-            "parse": "https://jhpc.021huaying.com/newplayer/?url="
+            "parse": "https://jhpc.021huaying.com/newplayer/?url=",
+            "ps": "0"
         },
         "qiyi": {
             "show": "爱奇艺",
-            "des": "",
-            "ps": "0",
             "api": "https://jhpc.021huaying.com/newplayer/5348837768203767939.php",
-            "parse": "https://jhpc.021huaying.com/newplayer/?url="
+            "parse": "https://jhpc.021huaying.com/newplayer/?url=",
+            "ps": "0"
         },
         "mgtv": {
             "show": "芒果",
-            "des": "",
-            "ps": "0",
             "api": "https://jhpc.021huaying.com/newplayer/5348837768203767939.php",
-            "parse": "https://jhpc.021huaying.com/newplayer/?url="
+            "parse": "https://jhpc.021huaying.com/newplayer/?url=",
+            "ps": "0"
         },
         "qq": {
             "show": "腾讯",
-            "des": "",
-            "ps": "0",
             "api": "https://jhpc.021huaying.com/newplayer/5348837768203767939.php",
-            "parse": "https://jhpc.021huaying.com/newplayer/?url="
+            "parse": "https://jhpc.021huaying.com/newplayer/?url=",
+            "ps": "0"
         },
         "sohu": {
             "show": "搜狐",
-            "des": "",
-            "ps": "0",
             "api": "https://jhpc.021huaying.com/newplayer/5348837768203767939.php",
-            "parse": "https://jhpc.021huaying.com/newplayer/?url="
+            "parse": "https://jhpc.021huaying.com/newplayer/?url=",
+            "ps": "0"
         },
         "pptv": {
             "show": "PPTV",
-            "des": "",
-            "ps": "0",
             "api": "https://jhpc.021huaying.com/newplayer/5348837768203767939.php",
-            "parse": "https://jhpc.021huaying.com/newplayer/?url="
+            "parse": "https://jhpc.021huaying.com/newplayer/?url=",
+            "ps": "0"
         },
         "m1905": {
             "show": "m1905",
-            "des": "",
-            "ps": "0",
             "api": "https://jhpc.021huaying.com/newplayer/5348837768203767939.php",
-            "parse": "https://jhpc.021huaying.com/newplayer/?url="
+            "parse": "https://jhpc.021huaying.com/newplayer/?url=",
+            "ps": "0"
         },
         "xigua": {
             "show": "西瓜视频",
-            "des": "",
-            "ps": "0",
             "api": "https://jhpc.021huaying.com/newplayer/5348837768203767939.php",
-            "parse": "https://jhpc.021huaying.com/newplayer/?url="
+            "parse": "https://jhpc.021huaying.com/newplayer/?url=",
+            "ps": "0"
         },
         "fuckapp": {
             "show": "独家线路",
-            "des": "555自建资源",
-            "ps": "0",
-            "parse": "https://dp.dd520.cc/p.php?url="
+            "api": "https://jhpc.021huaying.com/newplayer/5348837768203767939.php",
+            "parse": "https://dp.dd520.cc/p.php?url=",
+            "ps": "0"
         },
         "letv": {
             "show": "乐视",
-            "des": "",
-            "ps": "0",
             "api": "https://jhpc.021huaying.com/newplayer/5348837768203767939.php",
-            "parse": "https://jhpc.021huaying.com/newplayer/?url="
+            "parse": "https://jhpc.021huaying.com/newplayer/?url=",
+            "ps": "0"
         },
         "yemao": {
             "show": "优质线路1",
-            "des": "极速蓝光",
-            "ps": "0",
-            "parse": "https://jx.manduhu.com/?url="
+            "api": "https://jhpc.021huaying.com/newplayer/5348837768203767939.php",
+            "parse": "https://jx.manduhu.com/?url=",
+            "ps": "0"
         },
         "sdm3u8": {
             "show": "闪电线路",
-            "des": "闪电",
-            "ps": "0",
             "api": "https://zyz.sdljwomen.com/newm3u8/5348837768203767939.php",
-            "parse": "https://zyz.sdljwomen.com/newm3u8/?url="
+            "parse": "https://zyz.sdljwomen.com/newm3u8/?url=",
+            "ps": "0"
         },
         "fsm3u8": {
             "show": "飞速线路",
-            "des": "飞速",
-            "ps": "0",
             "api": "https://zyz.sdljwomen.com/newm3u8/5348837768203767939.php",
-            "parse": "https://zyz.sdljwomen.com/newm3u8/?url="
+            "parse": "https://zyz.sdljwomen.com/newm3u8/?url=",
+            "ps": "0"
         },
         "wjm3u8": {
             "show": "无尽线路",
-            "des": "无尽",
-            "ps": "0",
             "api": "https://zyz.sdljwomen.com/newm3u8/5348837768203767939.php",
-            "parse": "https://zyz.sdljwomen.com/newm3u8/?url="
+            "parse": "https://zyz.sdljwomen.com/newm3u8/?url=",
+            "ps": "0"
         },
         "dbm3u8": {
             "show": "百度线路",
-            "des": "百度",
-            "ps": "0",
             "api": "https://zyz.sdljwomen.com/newm3u8/5348837768203767939.php",
-            "parse": "https://zyz.sdljwomen.com/newm3u8/?url="
+            "parse": "https://zyz.sdljwomen.com/newm3u8/?url=",
+            "ps": "0"
         },
         "tkm3u8": {
             "show": "天空线路",
-            "des": "天空",
-            "ps": "0",
             "api": "https://zyz.sdljwomen.com/newm3u8/5348837768203767939.php",
-            "parse": "https://zyz.sdljwomen.com/newm3u8/?url="
+            "parse": "https://zyz.sdljwomen.com/newm3u8/?url=",
+            "ps": "0"
         },
         "kbm3u8": {
             "show": "快播线路",
-            "des": "快播",
-            "ps": "0",
             "api": "https://zyz.sdljwomen.com/newm3u8/5348837768203767939.php",
-            "parse": "https://zyz.sdljwomen.com/newm3u8/?url="
+            "parse": "https://zyz.sdljwomen.com/newm3u8/?url=",
+            "ps": "0"
         },
         "zhibo": {
             "show": "直播",
-            "des": "",
-            "ps": "1",
-            "parse": "http://suoyou.live/dplay/zb.php?url="
+            "api": "https://zyz.sdljwomen.com/newm3u8/5348837768203767939.php",
+            "parse": "http://suoyou.live/dplay/zb.php?url=",
+            "ps": "0"
         },
         "dujia": {
             "show": "独家专线",
-            "des": "",
-            "ps": "0",
             "api": "https://zyz.sdljwomen.com/newm3u8/5348837768203767939.php",
-            "parse": "https://zyz.sdljwomen.com/newm3u8/?url="
+            "parse": "https://zyz.sdljwomen.com/newm3u8/?url=",
+            "ps": "0"
         }
     },
     "filter": {
