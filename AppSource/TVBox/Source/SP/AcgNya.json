@@ -3,8 +3,7 @@
         "buka": {
             "show": "不卡推荐",
             "parse": "https://pro.ascepan.top/player/?url=",
-            "sn": 1,
-            "or": 999
+            "ps": "1"
         }
     },
     "filter": {
