@@ -2,69 +2,58 @@
     "player": {
         "duoduozy": {
             "show": "自建蓝光",
-            "des": "",
-            "ps": "0",
-            "parse": "https://www.lgyy.tv/static/player/dplayer.php?url="
+            "parse": "https://www.lgyy.tv/static/player/dplayer.php?url=",
+            "ps": "0"
         },
         "ysgc": {
             "show": "蓝光专线",
-            "des": "/static/images/ico/newysgc.png",
-            "ps": "0",
-            "parse": "https://www.lgyy.tv/static/player/dplayer.php?url="
+            "parse": "https://www.lgyy.tv/static/player/dplayer.php?url=",
+            "ps": "0"
         },
         "sohu": {
             "show": "搜狐",
-            "des": "",
-            "ps": "0",
-            "parse": "https://www.lgyy.tv/static/player/sohu.php?url="
+            "parse": "https://www.lgyy.tv/static/player/sohu.php?url=",
+            "ps": "0"
         },
         "qq": {
             "show": "腾讯",
-            "des": "",
-            "ps": "0",
-            "parse": "https://www.lgyy.tv/static/player/qq.php?url="
+            "parse": "https://www.lgyy.tv/static/player/qq.php?url=",
+            "ps": "0"
         },
         "bilibili": {
             "show": "哔哩",
-            "des": "",
-            "ps": "0",
-            "parse": "https://www.lgyy.tv/static/player/bilibili.php?url="
+            "parse": "https://www.lgyy.tv/static/player/bilibili.php?url=",
+            "ps": "0"
         },
         "youku": {
             "show": "优酷",
-            "des": "",
-            "ps": "0",
-            "parse": "https://www.lgyy.tv/static/player/youku.php?url="
+            "parse": "https://www.lgyy.tv/static/player/youku.php?url=",
+            "ps": "0"
         },
         "qiyi": {
             "show": "爱奇艺",
-            "des": "",
-            "ps": "0",
-            "parse": "https://www.lgyy.tv/static/player/qiyi.php?url="
+            "parse": "https://www.lgyy.tv/static/player/qiyi.php?url=",
+            "ps": "0"
         },
         "mgtv": {
             "show": "芒果",
-            "des": "",
-            "ps": "0",
-            "parse": "https://www.lgyy.tv/static/player/mgtv.php?url="
+            "parse": "https://www.lgyy.tv/static/player/mgtv.php?url=",
+            "ps": "0"
         },
         "xigua": {
             "show": "西瓜",
-            "des": "",
-            "ps": "0",
-            "parse": "https://www.lgyy.tv/static/player/xigua.php?url="
+            "parse": "https://www.lgyy.tv/static/player/xigua.php?url=",
+            "ps": "0"
         },
         "pptv": {
             "show": "PPTV",
-            "des": "",
-            "ps": "0",
-            "parse": "https://player.lgyyapp.com/?url="
+            "parse": "https://player.lgyyapp.com/?url=",
+            "ps": "0"
         },
         "wjm3u8": {
             "show": "无尽资源",
-            "des": "/static/images/ico/wj.jpg",
-            "ps": "0",
-            "parse": "https://lgyy.tv/static/player/wujin.php?url="
+            "parse": "https://lgyy.tv/static/player/wujin.php?url=",
+            "ps": "0"
         }
     },
     "filter": {
