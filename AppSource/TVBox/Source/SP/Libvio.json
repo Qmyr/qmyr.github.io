@@ -3,85 +3,85 @@
         "ali": {
             "show": "AI播放",
             "parse": "https://p.cfnode1.xyz/ai.php?url=",
-            "sn": 1,
+            "ps": 0,
             "or": 999
         },
         "yr": {
             "show": "LIBVIO",
             "parse": "https://p.cfnode1.xyz/ai.php?url=",
-            "sn": 1,
+            "ps": 0,
             "or": 999
         },
         "app": {
             "show": "LINEAPP",
             "parse": "https://p.cfnode1.xyz/ai.php?url=",
-            "sn": 1,
+            "ps": 0,
             "or": 999
         },
         "duoduozy": {
             "show": "LINE100",
             "parse": "https://p.cfnode1.xyz/lb.php?url=",
-            "sn": 1,
+            "ps": 0,
             "or": 999
         },
         "LINE1080": {
             "show": "LINE1080",
             "parse": "https://p.cfnode1.xyz/lb.php?url=",
-            "sn": 1,
+            "ps": 0,
             "or": 999
         },
         "LINE400": {
             "show": "LINE400",
             "parse": "https://p.cfnode1.xyz/lb.php?url=",
-            "sn": 1,
+            "ps": 0,
             "or": 999
         },
         "line401": {
             "show": "LINE401",
             "parse": "",
-            "sn": 0,
+            "ps": 0,
             "or": 999
         },
         "line402-日语": {
             "show": "LINE402",
             "parse": "https://p.cfnode1.xyz/lb.php?url=",
-            "sn": 1,
+            "ps": 0,
             "or": 999
         },
         "LINE405": {
             "show": "HD播放",
             "parse": "https://p.cfnode1.xyz/lb.php?url=",
-            "sn": 1,
+            "ps": 0,
             "or": 999
         },
         "LINE406": {
             "show": "LINE406",
             "parse": "https://p.cfnode1.xyz/zm.php?url=",
-            "sn": 1,
+            "ps": 0,
             "or": 999
         },
         "LINE407": {
             "show": "LINE407",
             "parse": "https://p.cfnode1.xyz/lb.php?url=",
-            "sn": 1,
+            "ps": 0,
             "or": 999
         },
         "LINE408": {
             "show": "LINE408",
             "parse": "",
-            "sn": 0,
+            "ps": 0,
             "or": 999
         },
         "p300": {
             "show": "LINE300",
             "parse": "",
-            "sn": 0,
+            "ps": 0,
             "or": 999
         },
         "p301": {
             "show": "LINE301",
             "parse": "",
-            "sn": 0,
+            "ps": 0,
             "or": 999
         }
     },
