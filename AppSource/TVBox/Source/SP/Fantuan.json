@@ -157,7 +157,7 @@
             "parse": "https://api.goodjson.top/?url="
         },
         "aliplayer": {
-            "show": "阿里云播放器",
+            "show": "阿里网盘",
             "or": 999,
             "ps": "0",
             "parse": "https://api.goodjson.top/?url="
