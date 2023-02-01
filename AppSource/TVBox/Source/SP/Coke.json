@@ -8,12 +8,12 @@
         "cokebb": {
             "show": "極速路線",
             "parse": "https://cokemv.me/player/?url=",
-            "ps": "0"
+            "ps": "1"
         },
         "cokemv": {
             "show": "高速路線",
             "parse": "https://cokemv.me/player/?url=",
-            "ps": "0"
+            "ps": "1"
         },
         "cokemv001": {
             "show": "海外線路",
