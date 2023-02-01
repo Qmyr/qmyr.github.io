@@ -95,7 +95,7 @@
             "show": "极速-01",
             "api": "https://jx1.idcdr.com/m3u8/API.php",
             "parse": "https://jx1.idcdr.com/m3u8/?url=",
-            "ps": "1",
+            "ps": "0",
             "or": 999
         },
         "1080zyk": {
