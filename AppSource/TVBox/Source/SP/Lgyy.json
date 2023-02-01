@@ -10,6 +10,11 @@
             "parse": "https://www.lgyy.tv/static/player/dplayer.php?url=",
             "ps": "0"
         },
+        "ffm3u8": {
+            "show": "非凡资源",
+            "parse": "https://www.lgyy.tv/static/player/ffzy.php?url=",
+            "ps": "0"
+        },
         "sohu": {
             "show": "搜狐",
             "parse": "https://www.lgyy.tv/static/player/sohu.php?url=",
