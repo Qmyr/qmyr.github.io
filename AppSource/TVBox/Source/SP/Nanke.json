@@ -4,67 +4,67 @@
             "show": "自建一",
             "api": "https://jx.m3u8zy.fun",
             "parse": "https://jx.m3u8zy.fun/nk.php?url=",
-            "ps": 0
+            "ps": "0"
         },
         "csyun": {
             "show": "自建二",
             "api": "https://jx.m3u8zy.fun",
             "parse": "https://jx.m3u8zy.fun/nk.php?url=",
-            "ps": 0
+            "ps": "0"
         },
         "ccsm3u8": {
             "show": "自建三",
             "api": "https://jx.m3u8zy.fun",
             "parse": "https://jx.qqqjx.com/?url=",
-            "ps": 0
+            "ps": "0"
         },
         "qq": {
             "show": "腾讯视频",
             "api": "https://jx.m3u8zy.fun",
             "parse": "https://jx.qqqjx.com/?url=",
-            "ps": 0
+            "ps": "0"
         },
         "qiyi": {
             "show": "奇艺视频",
             "api": "https://jx.m3u8zy.fun",
             "parse": "https://jx.qqqjx.com/?url=",
-            "ps": 0
+            "ps": "0"
         },
         "youku": {
             "show": "优酷视频",
             "api": "https://jx.m3u8zy.fun",
             "parse": "https://jx.jsonplayer.com/player/?url=",
-            "ps": 0
+            "ps": "0"
         },
         "mgtv": {
             "show": "芒果视频",
             "api": "https://jx.m3u8zy.fun",
             "parse": "https://jx.jsonplayer.com/player/?url=",
-            "ps": 0
+            "ps": "0"
         },
         "bilibili": {
             "show": "B站",
             "api": "https://jx.m3u8zy.fun",
             "parse": "https://jx.jsonplayer.com/player/?url=",
-            "ps": 0
+            "ps": "0"
         },
         "lzm3u8": {
             "show": "第三方",
             "api": "https://jx.m3u8zy.fun",
             "parse": "https://op.m3u8zy.fun/?url=",
-            "ps": 0
+            "ps": "0"
         },
         "gsm3u8": {
             "show": "第四方",
             "api": "https://jx.m3u8zy.fun",
             "parse": "https://op.m3u8zy.fun/?url=",
-            "ps": 0
+            "ps": "0"
         },
         "wjm3u8": {
             "show": "云播一",
             "api": "https://jx.m3u8zy.fun",
             "parse": "https://www.lkvod.com/addons/dplayer/?url=",
-            "ps": 0
+            "ps": "0"
         }
     },
     "filter": {
