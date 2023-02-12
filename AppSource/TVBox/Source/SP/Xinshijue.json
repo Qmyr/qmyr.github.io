@@ -21,6 +21,13 @@
             "ps": "0",
             "or": 999
         },
+        "SLYS4k": {
+            "show": "蓝光专享3",
+            "api": "https://jx1.idcdr.com/111/m3u8/API.php",
+            "parse": "https://jx1.idcdr.com/111/m3u8/?url=",
+            "ps": "0",
+            "or": 999
+        },
         "BYGA": {
             "show": "蓝光专线①",
             "api": "https://jx1.idcdr.com/m3u8/API.php",
