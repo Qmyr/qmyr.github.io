@@ -24,6 +24,12 @@
             "ps": 0,
             "or": 999
         },
+        "line5": {
+            "show": "播放线路5",
+            "parse": "https://www.zxzj.pro/line4.php?url=",
+            "ps": 0,
+            "or": 999
+        },
         "dpp": {
             "show": "DP播放",
             "parse": "https://www.zxzj.pro/line4.php?url=",
