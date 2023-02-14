@@ -1,5 +1,11 @@
 {
     "player": {
+        "LINE405": {
+            "show": "HD播放",
+            "parse": "https://p.cfnode1.xyz/lb.php?url=",
+            "ps": 0,
+            "or": 999
+        },
         "ali": {
             "show": "AI播放",
             "parse": "https://p.cfnode1.xyz/ai.php?url=",
@@ -44,12 +50,6 @@
         },
         "line402-日语": {
             "show": "LINE402",
-            "parse": "https://p.cfnode1.xyz/lb.php?url=",
-            "ps": 0,
-            "or": 999
-        },
-        "LINE405": {
-            "show": "HD播放",
             "parse": "https://p.cfnode1.xyz/lb.php?url=",
             "ps": 0,
             "or": 999
