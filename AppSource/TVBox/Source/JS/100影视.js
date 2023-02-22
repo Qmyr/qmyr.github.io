@@ -1,7 +1,7 @@
 muban.mxpro.二级.desc = '.module-info-item-content:eq(4)&&Text;;;.module-info-item-content:eq(2)&&Text;.module-info-item-content:eq(0)&&Text';
 muban.mxpro.二级.tabs = '.module-tab-items-box .module-tab-item';
 var rule={     
-    title:'100影视',
+    title:'100',
     模板:'mxpro',
     host:'https://www.dy111.me',
     url:'/vodshow/fyfilter.html',
