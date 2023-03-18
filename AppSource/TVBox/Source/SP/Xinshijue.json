@@ -16,8 +16,8 @@
         },
         "lgzx": {
             "show": "蓝光专享2",
-            "api": "https://jx2.idcdr.com/m3u81/API.php",
-            "parse": "https://jx2.idcdr.com/m3u81/?url=",
+            "api": "https://jx4.idcdr.com/m3u81/API.php",
+            "parse": "https://jx4.idcdr.com/m3u81/?url=",
             "ps": "0",
             "or": 999
         },
