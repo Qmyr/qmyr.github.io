@@ -12,6 +12,30 @@
             "ps": 0,
             "or": 999
         },
+        "aliyunline": {
+            "show": "BD播放",
+            "parse": "https://p.cfnode1.xyz/ty.php?url=",
+            "ps": 0,
+            "or": 999
+        },
+        "tianyi": {
+            "show": "BD2播放",
+            "parse": "https://p.cfnode1.xyz/ty.php?url=",
+            "ps": 0,
+            "or": 999
+        },
+        "tianyi_625": {
+            "show": "BD3播放",
+            "parse": "https://p.cfnode1.xyz/ty.php?url=",
+            "ps": 0,
+            "or": 999
+        },
+        "duoduozy": {
+            "show": "LINE100",
+            "parse": "https://p.cfnode1.xyz/lb.php?url=",
+            "ps": 0,
+            "or": 999
+        },
         "yr": {
             "show": "LIBVIO",
             "parse": "https://p.cfnode1.xyz/ai.php?url=",
@@ -21,12 +45,6 @@
         "app": {
             "show": "LINEAPP",
             "parse": "https://p.cfnode1.xyz/ai.php?url=",
-            "ps": 0,
-            "or": 999
-        },
-        "duoduozy": {
-            "show": "LINE100",
-            "parse": "https://play.goodjson.top/xplay/?url=",
             "ps": 0,
             "or": 999
         },
