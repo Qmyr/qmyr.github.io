@@ -1,4 +1,5 @@
 {
+    /*
     "IsRecodeLog": false,
     "ForceChangeApiUrl": false,
     "ApiUrl": "",
@@ -9,15 +10,18 @@
     "HomeSource": 0,
     "SearchView": 0,
     "IjkCache": 0,
-    "HistoryNum": 0,
+    "HistoryNum": 2,
     "SecureDNS": 0,
     "PictureScale": 0,
+    */
     "Live": {
+        /*
         "Channel": "",
         "ChannelReverse": false,
-        "CrossGroup": false,
+        "CrossGroup": true,
         "ConnectTimeout": 5,
         "ShowNetSpeed": false,
+        */
         "ShowTime": true
     },
     "IsForceUpdate": false,
@@ -26,9 +30,15 @@
         "ForceUpdate": false,
         "UpdateTitle": "",
         "UpdateDesc": "",
-        "ConfirmButton": "",
-        "CancelButton": "",
-        "ExitButton": "",
+        "ConfirmButtonVisibility": true,
+        "ConfirmButtonText": "",
+        "SkipWebButtonVisibility": false,
+        "SkipWebButtonText": "",
+        "CancelButtonVisibility": true,
+        "CancelButtonText": "",
+        "ExitButtonVisibility": false,
+        "ExitButtonText": "",
+        "SkipWebUrl": "",
         "UpdateDownloadUrl": ""
     }
 }
