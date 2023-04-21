@@ -9,15 +9,15 @@
         },
         "lgzx1": {
             "show": "蓝光专享1",
-            "api": "https://jx4.idcdr.com/m3u81/API.php",
-            "parse": "https://jx4.idcdr.com/m3u81/?url=",
+            //"api": "https://jx4.idcdr.com/m3u81/API.php",
+            "parse": "https://jx1.xn--ehqyc479ka.cn/player/555/?url=",
             "ps": "0",
             "or": 999
         },
         "lgzx": {
             "show": "蓝光专享2",
-            "api": "https://jx4.idcdr.com/m3u81/API.php",
-            "parse": "https://jx4.idcdr.com/m3u81/?url=",
+            //"api": "https://jx4.idcdr.com/m3u81/API.php",
+            "parse": "https://jx1.xn--ehqyc479ka.cn/player/555/?url=",
             "ps": "0",
             "or": 999
         },
