@@ -26,7 +26,7 @@
     },
     "IsForceUpdate": true,
     "UpdateData": {
-        "NewVersion": "1.0.7",
+        "NewVersion": "1.0.6",
         "ForceUpdate": true,
         "UpdateTitle": "新版本: 1.0.7    安装包大小: 9.41M",
         "UpdateDesc": "注意:\n更新升级后如果出现打开应用闪退的情况\n在手机设置内清空应用数据即可\n\n1.bugfix",
