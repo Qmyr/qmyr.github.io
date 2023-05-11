@@ -1,4 +1,4 @@
-//Date:2023/05/09 18:52
+//Date:2023/05/11 19:05
 {
     "data": [
         {
@@ -103,26 +103,6 @@
         },
         {
             "directors": [
-                "郭帆"
-            ],
-            "rate": "8.3",
-            "cover_x": 1882,
-            "star": "40",
-            "title": "流浪地球2",
-            "url": "https://movie.douban.com/subject/35267208/",
-            "casts": [
-                "吴京",
-                "刘德华",
-                "李雪健",
-                "沙溢",
-                "宁理"
-            ],
-            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2885955777.webp",
-            "id": "35267208",
-            "cover_y": 2800
-        },
-        {
-            "directors": [
                 "游达志"
             ],
             "rate": "7.4",
@@ -140,6 +120,26 @@
             "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891090813.webp",
             "id": "35136858",
             "cover_y": 1920
+        },
+        {
+            "directors": [
+                "郭帆"
+            ],
+            "rate": "8.3",
+            "cover_x": 1882,
+            "star": "40",
+            "title": "流浪地球2",
+            "url": "https://movie.douban.com/subject/35267208/",
+            "casts": [
+                "吴京",
+                "刘德华",
+                "李雪健",
+                "沙溢",
+                "宁理"
+            ],
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2885955777.webp",
+            "id": "35267208",
+            "cover_y": 2800
         },
         {
             "directors": [
@@ -205,9 +205,29 @@
         },
         {
             "directors": [
+                "韦正"
+            ],
+            "rate": "8.3",
+            "cover_x": 740,
+            "star": "40",
+            "title": "破事精英 第二季",
+            "url": "https://movie.douban.com/subject/35981366/",
+            "casts": [
+                "李佳航",
+                "成果",
+                "张一铎",
+                "屠画",
+                "刘中秋"
+            ],
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891621839.webp",
+            "id": "35981366",
+            "cover_y": 1024
+        },
+        {
+            "directors": [
                 "来牧宽"
             ],
-            "rate": "5.1",
+            "rate": "5.0",
             "cover_x": 3000,
             "star": "25",
             "title": "回廊亭",
@@ -266,26 +286,6 @@
         },
         {
             "directors": [
-                "韦正"
-            ],
-            "rate": "8.3",
-            "cover_x": 740,
-            "star": "40",
-            "title": "破事精英 第二季",
-            "url": "https://movie.douban.com/subject/35981366/",
-            "casts": [
-                "李佳航",
-                "成果",
-                "张一铎",
-                "刘中秋",
-                "屠画"
-            ],
-            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891621839.webp",
-            "id": "35981366",
-            "cover_y": 1024
-        },
-        {
-            "directors": [
                 "田晓鹏"
             ],
             "rate": "7.3",
@@ -303,6 +303,26 @@
             "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2885941329.webp",
             "id": "26649682",
             "cover_y": 7145
+        },
+        {
+            "directors": [
+                "刘进"
+            ],
+            "rate": "7.5",
+            "cover_x": 2500,
+            "star": "40",
+            "title": "平凡之路",
+            "url": "https://movie.douban.com/subject/35555996/",
+            "casts": [
+                "郭麒麟",
+                "金晨",
+                "晏紫东",
+                "朱珠",
+                "张子贤"
+            ],
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891268777.webp",
+            "id": "35555996",
+            "cover_y": 4000
         },
         {
             "directors": [
@@ -328,7 +348,7 @@
             "directors": [
                 "林妍"
             ],
-            "rate": "6.3",
+            "rate": "6.2",
             "cover_x": 3600,
             "star": "30",
             "title": "龙城",
@@ -348,9 +368,9 @@
             "directors": [
                 "巴晨旭"
             ],
-            "rate": "",
+            "rate": "7.1",
             "cover_x": 2000,
-            "star": "0",
+            "star": "35",
             "title": "全资进组",
             "url": "https://movie.douban.com/subject/36151372/",
             "casts": [
@@ -383,26 +403,6 @@
             "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2889190738.webp",
             "id": "35873870",
             "cover_y": 5000
-        },
-        {
-            "directors": [
-                "杨磊"
-            ],
-            "rate": "8.7",
-            "cover_x": 2160,
-            "star": "45",
-            "title": "三体",
-            "url": "https://movie.douban.com/subject/26647087/",
-            "casts": [
-                "张鲁一",
-                "于和伟",
-                "陈瑾",
-                "王子文",
-                "林永健"
-            ],
-            "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2886492021.webp",
-            "id": "26647087",
-            "cover_y": 3840
         }
     ]
 }
