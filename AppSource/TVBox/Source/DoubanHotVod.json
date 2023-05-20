@@ -1,4 +1,4 @@
-//Date:2023/05/16 21:28
+//Date:2023/05/20 14:04
 {
     "data": [
         {
@@ -23,7 +23,8 @@
         },
         {
             "directors": [
-                "鞠觉亮"
+                "鞠觉亮",
+                "王海岐"
             ],
             "rate": "5.6",
             "cover_x": 5000,
@@ -65,7 +66,7 @@
             "directors": [
                 "游达志"
             ],
-            "rate": "7.4",
+            "rate": "7.3",
             "cover_x": 1080,
             "star": "35",
             "title": "云襄传",
@@ -80,6 +81,48 @@
             "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891090813.webp",
             "id": "35136858",
             "cover_y": 1920
+        },
+        {
+            "directors": [
+                "郭帆"
+            ],
+            "rate": "8.3",
+            "cover_x": 1882,
+            "star": "40",
+            "title": "流浪地球2",
+            "url": "https://movie.douban.com/subject/35267208/",
+            "casts": [
+                "吴京",
+                "刘德华",
+                "李雪健",
+                "沙溢",
+                "宁理"
+            ],
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2885955777.webp",
+            "id": "35267208",
+            "cover_y": 2800
+        },
+        {
+            "directors": [
+                "何澍培",
+                "程箓",
+                "曾晓禹"
+            ],
+            "rate": "7.4",
+            "cover_x": 2020,
+            "star": "35",
+            "title": "护心",
+            "url": "https://movie.douban.com/subject/35248698/",
+            "casts": [
+                "侯明昊",
+                "周也",
+                "王以纶",
+                "陈欣予",
+                "左叶"
+            ],
+            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2891865666.webp",
+            "id": "35248698",
+            "cover_y": 3592
         },
         {
             "directors": [
@@ -103,23 +146,83 @@
         },
         {
             "directors": [
-                "郭帆"
+                "丁英洲"
             ],
-            "rate": "8.3",
-            "cover_x": 1882,
-            "star": "40",
-            "title": "流浪地球2",
-            "url": "https://movie.douban.com/subject/35267208/",
+            "rate": "7.1",
+            "cover_x": 2791,
+            "star": "35",
+            "title": "你给我的喜欢",
+            "url": "https://movie.douban.com/subject/35732451/",
             "casts": [
-                "吴京",
-                "刘德华",
-                "李雪健",
-                "沙溢",
-                "宁理"
+                "王玉雯",
+                "王子奇",
+                "李川",
+                "马心瑞",
+                "陈鑫海"
             ],
-            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2885955777.webp",
-            "id": "35267208",
-            "cover_y": 2800
+            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890831846.webp",
+            "id": "35732451",
+            "cover_y": 4961
+        },
+        {
+            "directors": [
+                "韩晓军"
+            ],
+            "rate": "",
+            "cover_x": 2667,
+            "star": "0",
+            "title": "后浪",
+            "url": "https://movie.douban.com/subject/35312037/",
+            "casts": [
+                "吴刚",
+                "赵露思",
+                "罗一舟",
+                "张萌",
+                "江珊"
+            ],
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891516799.webp",
+            "id": "35312037",
+            "cover_y": 4000
+        },
+        {
+            "directors": [
+                "刘江"
+            ],
+            "rate": "",
+            "cover_x": 2000,
+            "star": "0",
+            "title": "温暖的甜蜜的",
+            "url": "https://movie.douban.com/subject/34937911/",
+            "casts": [
+                "宋茜",
+                "陈妍希",
+                "陆毅",
+                "经超",
+                "孙坚"
+            ],
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891421588.webp",
+            "id": "34937911",
+            "cover_y": 2886
+        },
+        {
+            "directors": [
+                "刘进"
+            ],
+            "rate": "7.0",
+            "cover_x": 2500,
+            "star": "35",
+            "title": "平凡之路",
+            "url": "https://movie.douban.com/subject/35555996/",
+            "casts": [
+                "郭麒麟",
+                "金晨",
+                "晏紫东",
+                "朱珠",
+                "张子贤"
+            ],
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891268777.webp",
+            "id": "35555996",
+            "cover_y": 4000
         },
         {
             "directors": [
@@ -165,6 +268,26 @@
         },
         {
             "directors": [
+                "姜秀琼"
+            ],
+            "rate": "7.5",
+            "cover_x": 2622,
+            "star": "40",
+            "title": "外婆的新世界",
+            "url": "https://movie.douban.com/subject/35390936/",
+            "casts": [
+                "闫妮",
+                "邓恩熙",
+                "张瑶",
+                "姚晨",
+                "王珞丹"
+            ],
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892024039.webp",
+            "id": "35390936",
+            "cover_y": 4661
+        },
+        {
+            "directors": [
                 "刘海波"
             ],
             "rate": "8.1",
@@ -185,9 +308,29 @@
         },
         {
             "directors": [
+                "田晓鹏"
+            ],
+            "rate": "7.3",
+            "cover_x": 5000,
+            "star": "35",
+            "title": "深海",
+            "url": "https://movie.douban.com/subject/26649682/",
+            "casts": [
+                "苏鑫",
+                "王亭文",
+                "滕奎兴",
+                "杨婷",
+                "吉静"
+            ],
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2885941329.webp",
+            "id": "26649682",
+            "cover_y": 7145
+        },
+        {
+            "directors": [
                 "韦正"
             ],
-            "rate": "8.3",
+            "rate": "8.4",
             "cover_x": 740,
             "star": "40",
             "title": "破事精英 第二季",
@@ -202,88 +345,6 @@
             "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891621839.webp",
             "id": "35981366",
             "cover_y": 1024
-        },
-        {
-            "directors": [
-                "何澍培",
-                "程箓",
-                "曾晓禹"
-            ],
-            "rate": "",
-            "cover_x": 2020,
-            "star": "0",
-            "title": "护心",
-            "url": "https://movie.douban.com/subject/35248698/",
-            "casts": [
-                "侯明昊",
-                "周也",
-                "王以纶",
-                "陈欣予",
-                "左叶"
-            ],
-            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2891865666.webp",
-            "id": "35248698",
-            "cover_y": 3592
-        },
-        {
-            "directors": [
-                "李帅帅"
-            ],
-            "rate": "9.5",
-            "cover_x": 2657,
-            "star": "50",
-            "title": "画江湖之不良人6",
-            "url": "https://movie.douban.com/subject/35801116/",
-            "casts": [
-                "边江",
-                "申秋香",
-                "赵毅",
-                "阎萌萌",
-                "赵述仁"
-            ],
-            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2888920309.webp",
-            "id": "35801116",
-            "cover_y": 4724
-        },
-        {
-            "directors": [
-                "刘进"
-            ],
-            "rate": "7.2",
-            "cover_x": 2500,
-            "star": "35",
-            "title": "平凡之路",
-            "url": "https://movie.douban.com/subject/35555996/",
-            "casts": [
-                "郭麒麟",
-                "金晨",
-                "晏紫东",
-                "朱珠",
-                "张子贤"
-            ],
-            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891268777.webp",
-            "id": "35555996",
-            "cover_y": 4000
-        },
-        {
-            "directors": [
-                "丁英洲"
-            ],
-            "rate": "7.1",
-            "cover_x": 2791,
-            "star": "35",
-            "title": "你给我的喜欢",
-            "url": "https://movie.douban.com/subject/35732451/",
-            "casts": [
-                "王玉雯",
-                "王子奇",
-                "李川",
-                "马心瑞",
-                "陈鑫海"
-            ],
-            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890831846.webp",
-            "id": "35732451",
-            "cover_y": 4961
         },
         {
             "directors": [
@@ -304,46 +365,6 @@
             "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2889590695.webp",
             "id": "35203354",
             "cover_y": 5604
-        },
-        {
-            "directors": [
-                "刘江"
-            ],
-            "rate": "",
-            "cover_x": 2000,
-            "star": "0",
-            "title": "温暖的甜蜜的",
-            "url": "https://movie.douban.com/subject/34937911/",
-            "casts": [
-                "宋茜",
-                "陈妍希",
-                "陆毅",
-                "经超",
-                "孙坚"
-            ],
-            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891421588.webp",
-            "id": "34937911",
-            "cover_y": 2886
-        },
-        {
-            "directors": [
-                "田晓鹏"
-            ],
-            "rate": "7.3",
-            "cover_x": 5000,
-            "star": "35",
-            "title": "深海",
-            "url": "https://movie.douban.com/subject/26649682/",
-            "casts": [
-                "苏鑫",
-                "王亭文",
-                "滕奎兴",
-                "杨婷",
-                "吉静"
-            ],
-            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2885941329.webp",
-            "id": "26649682",
-            "cover_y": 7145
         },
         {
             "directors": [
@@ -385,26 +406,6 @@
             "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890909025.webp",
             "id": "33425600",
             "cover_y": 3555
-        },
-        {
-            "directors": [
-                "姜秀琼"
-            ],
-            "rate": "7.5",
-            "cover_x": 2622,
-            "star": "40",
-            "title": "外婆的新世界",
-            "url": "https://movie.douban.com/subject/35390936/",
-            "casts": [
-                "闫妮",
-                "邓恩熙",
-                "张瑶",
-                "姚晨",
-                "王珞丹"
-            ],
-            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892024039.webp",
-            "id": "35390936",
-            "cover_y": 4661
         }
     ]
 }
