@@ -1,6 +1,26 @@
-//Date:2023/06/07 16:14
+//Date:2023/06/11 10:47
 {
     "data": [
+        {
+            "directors": [
+                "付宁"
+            ],
+            "rate": "",
+            "cover_x": 5906,
+            "star": "0",
+            "title": "梦中的那片海",
+            "url": "https://movie.douban.com/subject/35431983/",
+            "casts": [
+                "肖战",
+                "李沁",
+                "刘芮麟",
+                "曹斐然",
+                "崔航"
+            ],
+            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892744226.webp",
+            "id": "35431983",
+            "cover_y": 8268
+        },
         {
             "directors": [
                 "辛爽"
@@ -20,26 +40,6 @@
             "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890906384.webp",
             "id": "35588177",
             "cover_y": 5251
-        },
-        {
-            "directors": [
-                "张艺谋"
-            ],
-            "rate": "7.1",
-            "cover_x": 1080,
-            "star": "35",
-            "title": "满江红",
-            "url": "https://movie.douban.com/subject/35766491/",
-            "casts": [
-                "沈腾",
-                "易烊千玺",
-                "张译",
-                "雷佳音",
-                "岳云鹏"
-            ],
-            "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2887555071.webp",
-            "id": "35766491",
-            "cover_y": 1520
         },
         {
             "directors": [
@@ -63,106 +63,6 @@
         },
         {
             "directors": [
-                "郭帆"
-            ],
-            "rate": "8.3",
-            "cover_x": 1882,
-            "star": "40",
-            "title": "流浪地球2",
-            "url": "https://movie.douban.com/subject/35267208/",
-            "casts": [
-                "吴京",
-                "刘德华",
-                "李雪健",
-                "沙溢",
-                "宁理"
-            ],
-            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2885955777.webp",
-            "id": "35267208",
-            "cover_y": 2800
-        },
-        {
-            "directors": [
-                "刘江"
-            ],
-            "rate": "7.0",
-            "cover_x": 4429,
-            "star": "35",
-            "title": "温暖的甜蜜的",
-            "url": "https://movie.douban.com/subject/34937911/",
-            "casts": [
-                "宋茜",
-                "陈妍希",
-                "陆毅",
-                "经超",
-                "孙坚"
-            ],
-            "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892371013.webp",
-            "id": "34937911",
-            "cover_y": 6348
-        },
-        {
-            "directors": [
-                "游达志"
-            ],
-            "rate": "7.3",
-            "cover_x": 1080,
-            "star": "35",
-            "title": "云襄传",
-            "url": "https://movie.douban.com/subject/35136858/",
-            "casts": [
-                "陈晓",
-                "毛晓彤",
-                "唐晓天",
-                "许龄月",
-                "刘冠麟"
-            ],
-            "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891090813.webp",
-            "id": "35136858",
-            "cover_y": 1920
-        },
-        {
-            "directors": [
-                "韩晓军"
-            ],
-            "rate": "",
-            "cover_x": 2667,
-            "star": "0",
-            "title": "后浪",
-            "url": "https://movie.douban.com/subject/35312037/",
-            "casts": [
-                "吴刚",
-                "赵露思",
-                "罗一舟",
-                "张萌",
-                "江珊"
-            ],
-            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891516799.webp",
-            "id": "35312037",
-            "cover_y": 4000
-        },
-        {
-            "directors": [
-                "张冀"
-            ],
-            "rate": "5.8",
-            "cover_x": 3544,
-            "star": "30",
-            "title": "长沙夜生活",
-            "url": "https://movie.douban.com/subject/35451891/",
-            "casts": [
-                "尹昉",
-                "张婧仪",
-                "苏岩",
-                "吴昊宸",
-                "白宇帆"
-            ],
-            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2888648134.webp",
-            "id": "35451891",
-            "cover_y": 5055
-        },
-        {
-            "directors": [
                 "杨子"
             ],
             "rate": "5.6",
@@ -183,9 +83,69 @@
         },
         {
             "directors": [
+                "张艺谋"
+            ],
+            "rate": "7.1",
+            "cover_x": 1080,
+            "star": "35",
+            "title": "满江红",
+            "url": "https://movie.douban.com/subject/35766491/",
+            "casts": [
+                "沈腾",
+                "易烊千玺",
+                "张译",
+                "雷佳音",
+                "岳云鹏"
+            ],
+            "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2887555071.webp",
+            "id": "35766491",
+            "cover_y": 1520
+        },
+        {
+            "directors": [
+                "郭帆"
+            ],
+            "rate": "8.3",
+            "cover_x": 1882,
+            "star": "40",
+            "title": "流浪地球2",
+            "url": "https://movie.douban.com/subject/35267208/",
+            "casts": [
+                "吴京",
+                "刘德华",
+                "李雪健",
+                "沙溢",
+                "宁理"
+            ],
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2885955777.webp",
+            "id": "35267208",
+            "cover_y": 2800
+        },
+        {
+            "directors": [
+                "黄天仁"
+            ],
+            "rate": "6.4",
+            "cover_x": 3500,
+            "star": "30",
+            "title": "三分野",
+            "url": "https://movie.douban.com/subject/35480792/",
+            "casts": [
+                "张彬彬",
+                "吴倩",
+                "黄子恩",
+                "夏若妍",
+                "李依晓"
+            ],
+            "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892326242.webp",
+            "id": "35480792",
+            "cover_y": 6223
+        },
+        {
+            "directors": [
                 "左近"
             ],
-            "rate": "4.4",
+            "rate": "4.3",
             "cover_x": 2160,
             "star": "20",
             "title": "中国说唱巅峰对决2023",
@@ -200,6 +160,47 @@
             "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2891647014.webp",
             "id": "36094342",
             "cover_y": 3840
+        },
+        {
+            "directors": [
+                "陈正道",
+                "许肇任"
+            ],
+            "rate": "7.5",
+            "cover_x": 2362,
+            "star": "40",
+            "title": "爱很美味",
+            "url": "https://movie.douban.com/subject/35711450/",
+            "casts": [
+                "李纯",
+                "张含韵",
+                "王菊",
+                "倪虹洁",
+                "吕星辰"
+            ],
+            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2889297555.webp",
+            "id": "35711450",
+            "cover_y": 3439
+        },
+        {
+            "directors": [
+                "韩晓军"
+            ],
+            "rate": "",
+            "cover_x": 2667,
+            "star": "0",
+            "title": "后浪",
+            "url": "https://movie.douban.com/subject/35312037/",
+            "casts": [
+                "吴刚",
+                "赵露思",
+                "罗一舟",
+                "张萌",
+                "江珊"
+            ],
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891516799.webp",
+            "id": "35312037",
+            "cover_y": 4000
         },
         {
             "directors": [
@@ -225,43 +226,23 @@
         },
         {
             "directors": [
-                "徐昂"
+                "游达志"
             ],
-            "rate": "7.6",
-            "cover_x": 5906,
-            "star": "40",
-            "title": "忠犬八公",
-            "url": "https://movie.douban.com/subject/26999802/",
-            "casts": [
-                "大黄",
-                "冯小刚",
-                "陈冲",
-                "白举纲",
-                "黄楚桐"
-            ],
-            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2888696986.webp",
-            "id": "26999802",
-            "cover_y": 9055
-        },
-        {
-            "directors": [
-                "程耳"
-            ],
-            "rate": "6.6",
-            "cover_x": 2480,
+            "rate": "7.3",
+            "cover_x": 1080,
             "star": "35",
-            "title": "无名",
-            "url": "https://movie.douban.com/subject/35372742/",
+            "title": "云襄传",
+            "url": "https://movie.douban.com/subject/35136858/",
             "casts": [
-                "梁朝伟",
-                "王一博",
-                "周迅",
-                "黄磊",
-                "森博之"
+                "陈晓",
+                "毛晓彤",
+                "唐晓天",
+                "许龄月",
+                "刘冠麟"
             ],
-            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2886187418.webp",
-            "id": "35372742",
-            "cover_y": 3508
+            "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891090813.webp",
+            "id": "35136858",
+            "cover_y": 1920
         },
         {
             "directors": [
@@ -286,23 +267,23 @@
         },
         {
             "directors": [
-                "黄天仁"
+                "程耳"
             ],
-            "rate": "6.3",
-            "cover_x": 3500,
-            "star": "30",
-            "title": "三分野",
-            "url": "https://movie.douban.com/subject/35480792/",
+            "rate": "6.6",
+            "cover_x": 2480,
+            "star": "35",
+            "title": "无名",
+            "url": "https://movie.douban.com/subject/35372742/",
             "casts": [
-                "张彬彬",
-                "吴倩",
-                "黄子恩",
-                "夏若妍",
-                "李依晓"
+                "梁朝伟",
+                "王一博",
+                "周迅",
+                "黄磊",
+                "森博之"
             ],
-            "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892326242.webp",
-            "id": "35480792",
-            "cover_y": 6223
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2886187418.webp",
+            "id": "35372742",
+            "cover_y": 3508
         },
         {
             "directors": [
@@ -328,23 +309,63 @@
         },
         {
             "directors": [
-                "刘进"
+                "徐昂"
             ],
-            "rate": "7.0",
-            "cover_x": 2500,
-            "star": "35",
-            "title": "平凡之路",
-            "url": "https://movie.douban.com/subject/35555996/",
+            "rate": "7.6",
+            "cover_x": 5906,
+            "star": "40",
+            "title": "忠犬八公",
+            "url": "https://movie.douban.com/subject/26999802/",
             "casts": [
-                "郭麒麟",
-                "金晨",
-                "晏紫东",
-                "朱珠",
-                "张子贤"
+                "大黄",
+                "冯小刚",
+                "陈冲",
+                "白举纲",
+                "黄楚桐"
             ],
-            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891268777.webp",
-            "id": "35555996",
-            "cover_y": 4000
+            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2888696986.webp",
+            "id": "26999802",
+            "cover_y": 9055
+        },
+        {
+            "directors": [
+                "刘江"
+            ],
+            "rate": "6.9",
+            "cover_x": 4429,
+            "star": "35",
+            "title": "温暖的甜蜜的",
+            "url": "https://movie.douban.com/subject/34937911/",
+            "casts": [
+                "宋茜",
+                "陈妍希",
+                "陆毅",
+                "经超",
+                "孙坚"
+            ],
+            "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892371013.webp",
+            "id": "34937911",
+            "cover_y": 6348
+        },
+        {
+            "directors": [
+                "张冀"
+            ],
+            "rate": "5.8",
+            "cover_x": 3544,
+            "star": "30",
+            "title": "长沙夜生活",
+            "url": "https://movie.douban.com/subject/35451891/",
+            "casts": [
+                "尹昉",
+                "张婧仪",
+                "苏岩",
+                "吴昊宸",
+                "白宇帆"
+            ],
+            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2888648134.webp",
+            "id": "35451891",
+            "cover_y": 5055
         },
         {
             "directors": [
@@ -368,43 +389,23 @@
         },
         {
             "directors": [
-                "刘海波"
+                "田少波"
             ],
-            "rate": "8.1",
-            "cover_x": 1280,
-            "star": "40",
-            "title": "尘封十三载",
-            "url": "https://movie.douban.com/subject/35725856/",
+            "rate": "",
+            "cover_x": 1080,
+            "star": "0",
+            "title": "全世界都在等你们分手",
+            "url": "https://movie.douban.com/subject/35623428/",
             "casts": [
-                "陈建斌",
-                "陈晓",
-                "啜妮",
-                "刘敏涛",
-                "左小青"
+                "朱正廷",
+                "卢昱晓",
+                "黄婷婷",
+                "王皓轩",
+                "许纯"
             ],
-            "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2890394683.webp",
-            "id": "35725856",
-            "cover_y": 2276
-        },
-        {
-            "directors": [
-                "佩顿·里德"
-            ],
-            "rate": "5.8",
-            "cover_x": 1941,
-            "star": "30",
-            "title": "蚁人与黄蜂女：量子狂潮",
-            "url": "https://movie.douban.com/subject/34610636/",
-            "casts": [
-                "保罗·路德",
-                "伊万杰琳·莉莉",
-                "迈克尔·道格拉斯",
-                "米歇尔·菲佛",
-                "乔纳森·梅杰斯"
-            ],
-            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2888100566.webp",
-            "id": "34610636",
-            "cover_y": 2875
+            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2887948786.webp",
+            "id": "35623428",
+            "cover_y": 1620
         }
     ]
 }
