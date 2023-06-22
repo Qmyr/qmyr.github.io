@@ -1,25 +1,25 @@
-//Date:2023/06/18 13:31
+//Date:2023/06/22 11:00
 {
     "data": [
         {
             "directors": [
-                "付宁"
+                "季竹青"
             ],
-            "rate": "",
-            "cover_x": 5906,
-            "star": "0",
-            "title": "梦中的那片海",
-            "url": "https://movie.douban.com/subject/35431983/",
+            "rate": "6.4",
+            "cover_x": 2000,
+            "star": "30",
+            "title": "这么多年",
+            "url": "https://movie.douban.com/subject/35591164/",
             "casts": [
-                "肖战",
-                "李沁",
-                "刘芮麟",
-                "曹斐然",
-                "崔航"
+                "张新成",
+                "孙千",
+                "刘丹",
+                "陶海",
+                "吴俊霆"
             ],
-            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892744226.webp",
-            "id": "35431983",
-            "cover_y": 8268
+            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890952124.webp",
+            "id": "35591164",
+            "cover_y": 2800
         },
         {
             "directors": [
@@ -43,10 +43,30 @@
         },
         {
             "directors": [
+                "付宁"
+            ],
+            "rate": "",
+            "cover_x": 5906,
+            "star": "0",
+            "title": "梦中的那片海",
+            "url": "https://movie.douban.com/subject/35431983/",
+            "casts": [
+                "肖战",
+                "李沁",
+                "刘芮麟",
+                "曹斐然",
+                "崔航"
+            ],
+            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892744226.webp",
+            "id": "35431983",
+            "cover_y": 8268
+        },
+        {
+            "directors": [
                 "陈正道",
                 "许肇任"
             ],
-            "rate": "7.4",
+            "rate": "7.3",
             "cover_x": 2362,
             "star": "35",
             "title": "爱很美味",
@@ -86,22 +106,42 @@
         },
         {
             "directors": [
-                "季竹青"
+                "张艺谋"
             ],
-            "rate": "6.4",
-            "cover_x": 2000,
-            "star": "30",
-            "title": "这么多年",
-            "url": "https://movie.douban.com/subject/35591164/",
+            "rate": "7.0",
+            "cover_x": 1080,
+            "star": "35",
+            "title": "满江红",
+            "url": "https://movie.douban.com/subject/35766491/",
             "casts": [
-                "张新成",
-                "孙千",
-                "章若楠",
-                "刘丹",
-                "吴俊霆"
+                "沈腾",
+                "易烊千玺",
+                "张译",
+                "雷佳音",
+                "岳云鹏"
             ],
-            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890952124.webp",
-            "id": "35591164",
+            "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2887555071.webp",
+            "id": "35766491",
+            "cover_y": 1520
+        },
+        {
+            "directors": [
+                "郭帆"
+            ],
+            "rate": "8.3",
+            "cover_x": 1882,
+            "star": "40",
+            "title": "流浪地球2",
+            "url": "https://movie.douban.com/subject/35267208/",
+            "casts": [
+                "吴京",
+                "刘德华",
+                "李雪健",
+                "沙溢",
+                "宁理"
+            ],
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2885955777.webp",
+            "id": "35267208",
             "cover_y": 2800
         },
         {
@@ -126,23 +166,43 @@
         },
         {
             "directors": [
-                "张艺谋"
+                "刘晓世"
             ],
-            "rate": "7.0",
-            "cover_x": 1080,
+            "rate": "6.6",
+            "cover_x": 6000,
             "star": "35",
-            "title": "满江红",
-            "url": "https://movie.douban.com/subject/35766491/",
+            "title": "长空之王",
+            "url": "https://movie.douban.com/subject/35209731/",
             "casts": [
-                "沈腾",
-                "易烊千玺",
-                "张译",
-                "雷佳音",
-                "岳云鹏"
+                "王一博",
+                "胡军",
+                "周冬雨",
+                "于适",
+                "卜钰"
             ],
-            "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2887555071.webp",
-            "id": "35766491",
-            "cover_y": 1520
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2889598060.webp",
+            "id": "35209731",
+            "cover_y": 8998
+        },
+        {
+            "directors": [
+                "尹涛"
+            ],
+            "rate": "",
+            "cover_x": 2834,
+            "star": "0",
+            "title": "长风渡",
+            "url": "https://movie.douban.com/subject/35087777/",
+            "casts": [
+                "白敬亭",
+                "宋轶",
+                "刘学义",
+                "张昊唯",
+                "张睿"
+            ],
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891832879.webp",
+            "id": "35087777",
+            "cover_y": 4535
         },
         {
             "directors": [
@@ -163,26 +223,6 @@
             "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892694004.webp",
             "id": "35525475",
             "cover_y": 2880
-        },
-        {
-            "directors": [
-                "郭帆"
-            ],
-            "rate": "8.3",
-            "cover_x": 1882,
-            "star": "40",
-            "title": "流浪地球2",
-            "url": "https://movie.douban.com/subject/35267208/",
-            "casts": [
-                "吴京",
-                "刘德华",
-                "李雪健",
-                "沙溢",
-                "宁理"
-            ],
-            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2885955777.webp",
-            "id": "35267208",
-            "cover_y": 2800
         },
         {
             "directors": [
@@ -223,46 +263,6 @@
             "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890643247.webp",
             "id": "34434003",
             "cover_y": 3333
-        },
-        {
-            "directors": [
-                "游达志"
-            ],
-            "rate": "7.3",
-            "cover_x": 1080,
-            "star": "35",
-            "title": "云襄传",
-            "url": "https://movie.douban.com/subject/35136858/",
-            "casts": [
-                "陈晓",
-                "毛晓彤",
-                "唐晓天",
-                "许龄月",
-                "刘冠麟"
-            ],
-            "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891090813.webp",
-            "id": "35136858",
-            "cover_y": 1920
-        },
-        {
-            "directors": [
-                "韩晓军"
-            ],
-            "rate": "",
-            "cover_x": 2667,
-            "star": "0",
-            "title": "后浪",
-            "url": "https://movie.douban.com/subject/35312037/",
-            "casts": [
-                "吴刚",
-                "赵露思",
-                "罗一舟",
-                "张萌",
-                "江珊"
-            ],
-            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891516799.webp",
-            "id": "35312037",
-            "cover_y": 4000
         },
         {
             "directors": [
@@ -308,6 +308,26 @@
         },
         {
             "directors": [
+                "韩晓军"
+            ],
+            "rate": "",
+            "cover_x": 2667,
+            "star": "0",
+            "title": "后浪",
+            "url": "https://movie.douban.com/subject/35312037/",
+            "casts": [
+                "吴刚",
+                "赵露思",
+                "罗一舟",
+                "张萌",
+                "江珊"
+            ],
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891516799.webp",
+            "id": "35312037",
+            "cover_y": 4000
+        },
+        {
+            "directors": [
                 "鞠觉亮",
                 "王海岐"
             ],
@@ -326,44 +346,6 @@
             "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2880707547.webp",
             "id": "35501483",
             "cover_y": 8865
-        },
-        {
-            "directors": [],
-            "rate": "9.0",
-            "cover_x": 2160,
-            "star": "45",
-            "title": "种地吧",
-            "url": "https://movie.douban.com/subject/36230054/",
-            "casts": [
-                "陈少熙",
-                "何浩楠",
-                "蒋敦豪",
-                "李耕耘 ",
-                "李昊"
-            ],
-            "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2887276262.webp",
-            "id": "36230054",
-            "cover_y": 3840
-        },
-        {
-            "directors": [
-                "刘晓世"
-            ],
-            "rate": "6.6",
-            "cover_x": 6000,
-            "star": "35",
-            "title": "长空之王",
-            "url": "https://movie.douban.com/subject/35209731/",
-            "casts": [
-                "王一博",
-                "胡军",
-                "周冬雨",
-                "于适",
-                "卜钰"
-            ],
-            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2889598060.webp",
-            "id": "35209731",
-            "cover_y": 8998
         },
         {
             "directors": [
@@ -404,6 +386,26 @@
             "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2885941329.webp",
             "id": "26649682",
             "cover_y": 7145
+        },
+        {
+            "directors": [
+                "游达志"
+            ],
+            "rate": "7.3",
+            "cover_x": 1080,
+            "star": "35",
+            "title": "云襄传",
+            "url": "https://movie.douban.com/subject/35136858/",
+            "casts": [
+                "陈晓",
+                "毛晓彤",
+                "唐晓天",
+                "许龄月",
+                "刘冠麟"
+            ],
+            "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891090813.webp",
+            "id": "35136858",
+            "cover_y": 1920
         }
     ]
 }
