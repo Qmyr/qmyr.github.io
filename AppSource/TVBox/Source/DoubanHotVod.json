@@ -1,25 +1,45 @@
-//Date:2023/06/26 20:38
-{
+//Date:2023/07/01 08:57
+{{
     "data": [
         {
             "directors": [
-                "季竹青"
+                "李青蓉"
             ],
-            "rate": "6.3",
+            "rate": "",
             "cover_x": 2000,
-            "star": "30",
-            "title": "这么多年",
-            "url": "https://movie.douban.com/subject/35591164/",
+            "star": "0",
+            "title": "偷偷藏不住",
+            "url": "https://movie.douban.com/subject/35899932/",
             "casts": [
-                "张新成",
-                "孙千",
-                "刘丹",
-                "陶海",
-                "吴俊霆"
+                "赵露思",
+                "陈哲远",
+                "马伯骞",
+                "曾黎",
+                "邱心志"
             ],
-            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890952124.webp",
-            "id": "35591164",
-            "cover_y": 2800
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893353120.webp",
+            "id": "35899932",
+            "cover_y": 3544
+        },
+        {
+            "directors": [
+                "吴炜伦"
+            ],
+            "rate": "7.5",
+            "cover_x": 3000,
+            "star": "40",
+            "title": "毒舌律师",
+            "url": "https://movie.douban.com/subject/35914259/",
+            "casts": [
+                "黄子华",
+                "谢君豪",
+                "王丹妮",
+                "廖子妤",
+                "王敏德"
+            ],
+            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2886619074.webp",
+            "id": "35914259",
+            "cover_y": 4280
         },
         {
             "directors": [
@@ -63,6 +83,91 @@
         },
         {
             "directors": [
+                "外崎春雄"
+            ],
+            "rate": "8.8",
+            "cover_x": 849,
+            "star": "45",
+            "title": "鬼灭之刃 锻刀村篇",
+            "url": "https://movie.douban.com/subject/35769236/",
+            "casts": [
+                "花江夏树",
+                "鬼头明里",
+                "冈本信彦",
+                "河西健吾",
+                "花泽香菜"
+            ],
+            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2888671774.webp",
+            "id": "35769236",
+            "cover_y": 1200
+        },
+        {
+            "directors": [
+                "猫的树"
+            ],
+            "rate": "7.4",
+            "cover_x": 1080,
+            "star": "35",
+            "title": "当我飞奔向你",
+            "url": "https://movie.douban.com/subject/35172742/",
+            "casts": [
+                "周翊然",
+                "张淼怡",
+                "边天扬",
+                "姜之南",
+                "郭喆"
+            ],
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893188877.webp",
+            "id": "35172742",
+            "cover_y": 1920
+        },
+        {
+            "directors": [
+                "出合小都美",
+                "平向智子",
+                "本间修",
+                "高村彰",
+                "矢野孝典",
+                "福井洋平"
+            ],
+            "rate": "9.5",
+            "cover_x": 2000,
+            "star": "50",
+            "title": "跃动青春",
+            "url": "https://movie.douban.com/subject/35679677/",
+            "casts": [
+                "黑泽朋世",
+                "江越彬纪",
+                "内田真礼",
+                "寺崎裕香",
+                "潘惠美"
+            ],
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2888477167.webp",
+            "id": "35679677",
+            "cover_y": 2838
+        },
+        {
+            "directors": [
+                "季竹青"
+            ],
+            "rate": "6.3",
+            "cover_x": 2000,
+            "star": "30",
+            "title": "这么多年",
+            "url": "https://movie.douban.com/subject/35591164/",
+            "casts": [
+                "张新成",
+                "孙千",
+                "刘丹",
+                "陶海",
+                "吴俊霆"
+            ],
+            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890952124.webp",
+            "id": "35591164",
+            "cover_y": 2800
+        },
+        {
+            "directors": [
                 "付宁"
             ],
             "rate": "",
@@ -83,23 +188,23 @@
         },
         {
             "directors": [
-                "吴炜伦"
+                "余丁"
             ],
-            "rate": "7.6",
-            "cover_x": 3000,
-            "star": "40",
-            "title": "毒舌律师",
-            "url": "https://movie.douban.com/subject/35914259/",
+            "rate": "6.6",
+            "cover_x": 1921,
+            "star": "35",
+            "title": "公诉",
+            "url": "https://movie.douban.com/subject/35525475/",
             "casts": [
-                "黄子华",
-                "谢君豪",
-                "王丹妮",
-                "廖子妤",
-                "王敏德"
+                "迪丽热巴",
+                "佟大为",
+                "高鑫",
+                "尤靖茹",
+                "冯雷"
             ],
-            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2886619074.webp",
-            "id": "35914259",
-            "cover_y": 4280
+            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892694004.webp",
+            "id": "35525475",
+            "cover_y": 2880
         },
         {
             "directors": [
@@ -123,23 +228,43 @@
         },
         {
             "directors": [
-                "刘晓世"
+                "郭帆"
             ],
-            "rate": "6.6",
-            "cover_x": 6000,
-            "star": "35",
-            "title": "长空之王",
-            "url": "https://movie.douban.com/subject/35209731/",
+            "rate": "8.3",
+            "cover_x": 1882,
+            "star": "40",
+            "title": "流浪地球2",
+            "url": "https://movie.douban.com/subject/35267208/",
             "casts": [
-                "王一博",
-                "胡军",
-                "周冬雨",
-                "于适",
-                "卜钰"
+                "吴京",
+                "刘德华",
+                "李雪健",
+                "沙溢",
+                "宁理"
             ],
-            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2889598060.webp",
-            "id": "35209731",
-            "cover_y": 8998
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2885955777.webp",
+            "id": "35267208",
+            "cover_y": 2800
+        },
+        {
+            "directors": [
+                "马凯"
+            ],
+            "rate": "5.6",
+            "cover_x": 6000,
+            "star": "30",
+            "title": "了不起的夜晚",
+            "url": "https://movie.douban.com/subject/35814176/",
+            "casts": [
+                "范丞丞",
+                "蒋龙",
+                "蒋易",
+                "王子璇",
+                "梁龙"
+            ],
+            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2888740694.webp",
+            "id": "35814176",
+            "cover_y": 9000
         },
         {
             "directors": [
@@ -164,105 +289,43 @@
         },
         {
             "directors": [
-                "郭帆"
+                "刘晓世"
             ],
-            "rate": "8.3",
-            "cover_x": 1882,
-            "star": "40",
-            "title": "流浪地球2",
-            "url": "https://movie.douban.com/subject/35267208/",
-            "casts": [
-                "吴京",
-                "刘德华",
-                "李雪健",
-                "沙溢",
-                "宁理"
-            ],
-            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2885955777.webp",
-            "id": "35267208",
-            "cover_y": 2800
-        },
-        {
-            "directors": [
-                "余丁"
-            ],
-            "rate": "",
-            "cover_x": 1921,
-            "star": "0",
-            "title": "公诉",
-            "url": "https://movie.douban.com/subject/35525475/",
-            "casts": [
-                "迪丽热巴",
-                "佟大为",
-                "高鑫",
-                "尤靖茹",
-                "冯雷"
-            ],
-            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892694004.webp",
-            "id": "35525475",
-            "cover_y": 2880
-        },
-        {
-            "directors": [
-                "何澍培",
-                "程箓",
-                "曾晓禹"
-            ],
-            "rate": "7.2",
-            "cover_x": 2020,
+            "rate": "6.6",
+            "cover_x": 6000,
             "star": "35",
-            "title": "护心",
-            "url": "https://movie.douban.com/subject/35248698/",
+            "title": "长空之王",
+            "url": "https://movie.douban.com/subject/35209731/",
             "casts": [
-                "侯明昊",
-                "周也",
-                "王以纶",
-                "陈欣予",
-                "左叶"
+                "王一博",
+                "胡军",
+                "周冬雨",
+                "于适",
+                "卜钰"
             ],
-            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2891865666.webp",
-            "id": "35248698",
-            "cover_y": 3592
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2889598060.webp",
+            "id": "35209731",
+            "cover_y": 8998
         },
         {
             "directors": [
-                "杨子"
-            ],
-            "rate": "5.5",
-            "cover_x": 1786,
-            "star": "30",
-            "title": "龙马精神",
-            "url": "https://movie.douban.com/subject/35595615/",
-            "casts": [
-                "成龙",
-                "刘浩存",
-                "郭麒麟",
-                "吴京",
-                "余皑磊"
-            ],
-            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890004015.webp",
-            "id": "35595615",
-            "cover_y": 2500
-        },
-        {
-            "directors": [
-                "黄天仁"
+                "易小星"
             ],
             "rate": "6.3",
-            "cover_x": 3500,
+            "cover_x": 2100,
             "star": "30",
-            "title": "三分野",
-            "url": "https://movie.douban.com/subject/35480792/",
+            "title": "人生路不熟",
+            "url": "https://movie.douban.com/subject/35653205/",
             "casts": [
-                "张彬彬",
-                "吴倩",
-                "黄子恩",
-                "夏若妍",
-                "李依晓"
+                "乔杉",
+                "范丞丞",
+                "马丽",
+                "张婧仪",
+                "常远"
             ],
-            "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892326242.webp",
-            "id": "35480792",
-            "cover_y": 6223
+            "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2889864501.webp",
+            "id": "35653205",
+            "cover_y": 3000
         },
         {
             "directors": [
@@ -288,26 +351,6 @@
         },
         {
             "directors": [
-                "马凯"
-            ],
-            "rate": "5.7",
-            "cover_x": 6000,
-            "star": "30",
-            "title": "了不起的夜晚",
-            "url": "https://movie.douban.com/subject/35814176/",
-            "casts": [
-                "范丞丞",
-                "蒋龙",
-                "蒋易",
-                "王子璇",
-                "梁龙"
-            ],
-            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2888740694.webp",
-            "id": "35814176",
-            "cover_y": 9000
-        },
-        {
-            "directors": [
                 "程耳"
             ],
             "rate": "6.6",
@@ -328,43 +371,25 @@
         },
         {
             "directors": [
-                "田晓鹏"
+                "何澍培",
+                "程箓",
+                "曾晓禹"
             ],
-            "rate": "7.3",
-            "cover_x": 5000,
+            "rate": "7.2",
+            "cover_x": 2020,
             "star": "35",
-            "title": "深海",
-            "url": "https://movie.douban.com/subject/26649682/",
+            "title": "护心",
+            "url": "https://movie.douban.com/subject/35248698/",
             "casts": [
-                "苏鑫",
-                "王亭文",
-                "滕奎兴",
-                "杨婷",
-                "吉静"
+                "侯明昊",
+                "周也",
+                "王以纶",
+                "陈欣予",
+                "左叶"
             ],
-            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2885941329.webp",
-            "id": "26649682",
-            "cover_y": 7145
-        },
-        {
-            "directors": [
-                "徐昂"
-            ],
-            "rate": "7.6",
-            "cover_x": 5906,
-            "star": "40",
-            "title": "忠犬八公",
-            "url": "https://movie.douban.com/subject/26999802/",
-            "casts": [
-                "大黄",
-                "冯小刚",
-                "陈冲",
-                "白举纲",
-                "黄楚桐"
-            ],
-            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2888696986.webp",
-            "id": "26999802",
-            "cover_y": 9055
+            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2891865666.webp",
+            "id": "35248698",
+            "cover_y": 3592
         },
         {
             "directors": [
@@ -386,26 +411,6 @@
             "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2880707547.webp",
             "id": "35501483",
             "cover_y": 8865
-        },
-        {
-            "directors": [
-                "韩晓军"
-            ],
-            "rate": "",
-            "cover_x": 2667,
-            "star": "0",
-            "title": "后浪",
-            "url": "https://movie.douban.com/subject/35312037/",
-            "casts": [
-                "吴刚",
-                "赵露思",
-                "罗一舟",
-                "张萌",
-                "江珊"
-            ],
-            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891516799.webp",
-            "id": "35312037",
-            "cover_y": 4000
         }
     ]
 }
