@@ -17,7 +17,7 @@
             "type_name": "动漫"
         }
     ],
-    "filter": {
+    "filters": {
         "1": [
             {
                 "key": "cat",
