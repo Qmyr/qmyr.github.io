@@ -27,10 +27,10 @@
     },
     "IsForceUpdate": true,
     "UpdateData": {
-        "NewVersion": "1.0.9",
+        "NewVersion": "1.1.0",
         "ForceUpdate": false,
-        "UpdateTitle": "新版本: 1.0.9    安装包大小: 13.38M",
-        "UpdateDesc": "注意:\n更新后如果出现打开应用闪退的情况\n在设备设置内清空应用数据即可\n1.增加过滤视频插播广告功能(试验性-仅对明日、量子(lzm3u8)、非凡(ffm3u8)播放源有效)\n如果播放有异常可在\"设置\"界面左下角关闭\n2.配置加载优化\n3.修复部分源筛选加载bug\n4.内置IJK解码参数更新\n5.图片链接带Headers信息在传递Headers时保证空格不会被URL转码\n6.所有对话框显示时均不隐藏虚拟导航键(手机本身设置没开虚拟导航键的情况下不会显示)\n7.一些已知问题修复,优化部分UI",
+        "UpdateTitle": "新版本: 1.1.0    安装包大小: 13.59M",
+        "UpdateDesc": "注意:\n更新后如果出现打开应用闪退的情况\n在设备设置内清空应用数据即可\n1.历史和收藏增加清空功能\n2.点播增加屏幕锁定功能\n3.修复XML格式采集源搜索无图片数据的问题\n4.修改启动请求配置逻辑,加快加载配置速度",
         "ConfirmButtonVisibility": true,
         "ConfirmButtonText": "立即更新",
         "SkipWebButtonVisibility": false,
@@ -39,7 +39,7 @@
         "CancelButtonText": "下次再说",
         "ExitButtonVisibility": false,
         "ExitButtonText": "退出应用",
-        "SkipWebUrl": "https://ghproxy.com/raw.githubusercontent.com/Qmyr/qmyr.github.io/main/AppSource/TVBox/Apk/TVBox-1.0.9.apk",
-        "UpdateDownloadUrl": "https://ghproxy.com/raw.githubusercontent.com/Qmyr/qmyr.github.io/main/AppSource/TVBox/Apk/TVBox-1.0.9.apk"
+        "SkipWebUrl": "https://ghproxy.com/raw.githubusercontent.com/Qmyr/qmyr.github.io/main/AppSource/TVBox/Apk/TVBox-1.1.0.apk",
+        "UpdateDownloadUrl": "https://ghproxy.com/raw.githubusercontent.com/Qmyr/qmyr.github.io/main/AppSource/TVBox/Apk/TVBox-1.1.0.apk"
     }
 }
