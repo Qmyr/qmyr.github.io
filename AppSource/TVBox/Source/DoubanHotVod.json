@@ -1,25 +1,87 @@
-//Date:2023/09/23 11:21
+//Date:2023/10/04 11:11
 {
     "data": [
         {
             "directors": [
-                "落落"
+                "乌尔善"
             ],
-            "rate": "6.0",
-            "cover_x": 2500,
-            "star": "30",
-            "title": "云之羽",
-            "url": "https://movie.douban.com/subject/35861101/",
+            "rate": "7.9",
+            "cover_x": 6313,
+            "star": "40",
+            "title": "封神第一部：朝歌风云",
+            "url": "https://movie.douban.com/subject/10604086/",
             "casts": [
-                "虞书欣",
-                "张凌赫",
-                "丞磊",
-                "卢昱晓",
-                "金靖"
+                "费翔",
+                "李雪健",
+                "黄渤",
+                "于适",
+                "陈牧驰"
             ],
-            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891823060.webp@Referer=https://movie.douban.com/@User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36",
-            "id": "35861101",
-            "cover_y": 4444
+            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895465725.webp@Referer=https://movie.douban.com/@User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36",
+            "id": "10604086",
+            "cover_y": 8838
+        },
+        {
+            "directors": [
+                "谢君伟",
+                "邹靖"
+            ],
+            "rate": "8.3",
+            "cover_x": 2600,
+            "star": "40",
+            "title": "长安三万里",
+            "url": "https://movie.douban.com/subject/36035676/",
+            "casts": [
+                "杨天翔",
+                "凌振赫",
+                "吴俊全",
+                "宣晓鸣",
+                "卢力峰"
+            ],
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893820209.webp@Referer=https://movie.douban.com/@User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36",
+            "id": "36035676",
+            "cover_y": 4153
+        },
+        {
+            "directors": [
+                "许宏宇"
+            ],
+            "rate": "8.1",
+            "cover_x": 1400,
+            "star": "40",
+            "title": "异人之下",
+            "url": "https://movie.douban.com/subject/26853822/",
+            "casts": [
+                "彭昱畅",
+                "侯明昊",
+                "王影璐",
+                "王学圻",
+                "毕雯珺"
+            ],
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896962608.webp@Referer=https://movie.douban.com/@User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36",
+            "id": "26853822",
+            "cover_y": 1985
+        },
+        {
+            "directors": [
+                "夏铭泽",
+                "阎凯"
+            ],
+            "rate": "7.4",
+            "cover_x": 2000,
+            "star": "35",
+            "title": "茶啊二中",
+            "url": "https://movie.douban.com/subject/34880018/",
+            "casts": [
+                "邢原源",
+                "王博文",
+                "高禹恒",
+                "黄恒",
+                "郭红进"
+            ],
+            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895351514.webp@Referer=https://movie.douban.com/@User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36",
+            "id": "34880018",
+            "cover_y": 2746
         },
         {
             "directors": [
@@ -40,26 +102,6 @@
             "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893476407.webp@Referer=https://movie.douban.com/@User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36",
             "id": "35765480",
             "cover_y": 4000
-        },
-        {
-            "directors": [
-                "乌尔善"
-            ],
-            "rate": "7.9",
-            "cover_x": 6313,
-            "star": "40",
-            "title": "封神第一部：朝歌风云",
-            "url": "https://movie.douban.com/subject/10604086/",
-            "casts": [
-                "费翔",
-                "李雪健",
-                "黄渤",
-                "于适",
-                "陈牧驰"
-            ],
-            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895465725.webp@Referer=https://movie.douban.com/@User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36",
-            "id": "10604086",
-            "cover_y": 8838
         },
         {
             "directors": [
@@ -84,44 +126,43 @@
         },
         {
             "directors": [
-                "李昂",
-                "刘洪源"
+                "落落"
             ],
-            "rate": "",
-            "cover_x": 1402,
-            "star": "0",
-            "title": "南风知我意",
-            "url": "https://movie.douban.com/subject/30482094/",
+            "rate": "6.0",
+            "cover_x": 2500,
+            "star": "30",
+            "title": "云之羽",
+            "url": "https://movie.douban.com/subject/35861101/",
             "casts": [
-                "成毅",
-                "张予曦",
-                "付辛博",
-                "李欣泽",
-                "梁婧娴"
+                "虞书欣",
+                "张凌赫",
+                "丞磊",
+                "卢昱晓",
+                "金靖"
             ],
-            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2897873785.webp@Referer=https://movie.douban.com/@User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36",
-            "id": "30482094",
-            "cover_y": 1961
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891823060.webp@Referer=https://movie.douban.com/@User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36",
+            "id": "35861101",
+            "cover_y": 4444
         },
         {
             "directors": [
-                "宋晓飞"
+                "毕鑫业"
             ],
-            "rate": "",
-            "cover_x": 5009,
-            "star": "0",
-            "title": "骄阳伴我",
-            "url": "https://movie.douban.com/subject/35132922/",
+            "rate": "8.6",
+            "cover_x": 2500,
+            "star": "45",
+            "title": "我有一个朋友",
+            "url": "https://movie.douban.com/subject/35712815/",
             "casts": [
-                "肖战",
-                "白百何",
-                "田雨",
-                "朱珠",
-                "袁文康"
+                "谢兴阳",
+                "苏梦迪",
+                "王翰闻",
+                "潘玥同",
+                "赵子麒"
             ],
-            "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897429863.webp@Referer=https://movie.douban.com/@User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36",
-            "id": "35132922",
-            "cover_y": 8000
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897779490.webp@Referer=https://movie.douban.com/@User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36",
+            "id": "35712815",
+            "cover_y": 3848
         },
         {
             "directors": [
@@ -145,71 +186,31 @@
         },
         {
             "directors": [
-                "康洪雷",
-                "刘翰轩 "
+                "滕华涛",
+                "王为"
             ],
-            "rate": "8.4",
-            "cover_x": 5906,
-            "star": "40",
-            "title": "父辈的荣耀",
-            "url": "https://movie.douban.com/subject/35653130/",
+            "rate": "",
+            "cover_x": 5811,
+            "star": "0",
+            "title": "好事成双",
+            "url": "https://movie.douban.com/subject/35490184/",
             "casts": [
-                "张晚意",
-                "郭涛",
-                "刘琳",
-                "张月",
-                "李浩菲"
+                "张小斐",
+                "黄晓明",
+                "张嘉倪",
+                "李泽锋",
+                "赵昕"
             ],
-            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2897407765.webp@Referer=https://movie.douban.com/@User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36",
-            "id": "35653130",
-            "cover_y": 8858
-        },
-        {
-            "directors": [
-                "许宏宇"
-            ],
-            "rate": "8.2",
-            "cover_x": 1400,
-            "star": "40",
-            "title": "异人之下",
-            "url": "https://movie.douban.com/subject/26853822/",
-            "casts": [
-                "彭昱畅",
-                "侯明昊",
-                "王影璐",
-                "王学圻",
-                "毕雯珺"
-            ],
-            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896962608.webp@Referer=https://movie.douban.com/@User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36",
-            "id": "26853822",
-            "cover_y": 1985
-        },
-        {
-            "directors": [
-                "邱礼涛"
-            ],
-            "rate": "5.9",
-            "cover_x": 2000,
-            "star": "30",
-            "title": "暗杀风暴",
-            "url": "https://movie.douban.com/subject/26746801/",
-            "casts": [
-                "古天乐",
-                "张智霖",
-                "吴镇宇",
-                "胡杏儿",
-                "周秀娜"
-            ],
-            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892025156.webp@Referer=https://movie.douban.com/@User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36",
-            "id": "26746801",
-            "cover_y": 2800
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893494578.webp@Referer=https://movie.douban.com/@User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36",
+            "id": "35490184",
+            "cover_y": 8716
         },
         {
             "directors": [
                 "苏照彬",
                 "林子平"
             ],
-            "rate": "7.2",
+            "rate": "7.0",
             "cover_x": 2000,
             "star": "35",
             "title": "西出玉门",
@@ -227,105 +228,44 @@
         },
         {
             "directors": [
-                "唐铁军",
-                "吴迪"
+                "克里斯托弗·麦奎里"
             ],
-            "rate": "8.1",
-            "cover_x": 5906,
+            "rate": "7.7",
+            "cover_x": 4000,
             "star": "40",
-            "title": "鹊刀门传奇",
-            "url": "https://movie.douban.com/subject/35936087/",
+            "title": "碟中谍7：致命清算（上）",
+            "url": "https://movie.douban.com/subject/30433455/",
             "casts": [
-                "赵本山",
-                "宋小宝",
-                "宋晓峰",
-                "文松",
-                "程野"
+                "汤姆·克鲁斯",
+                "海莉·阿特维尔",
+                "文·瑞姆斯",
+                "西蒙·佩吉",
+                "丽贝卡·弗格森"
             ],
-            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896880555.webp@Referer=https://movie.douban.com/@User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36",
-            "id": "35936087",
-            "cover_y": 10500
+            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893481084.webp@Referer=https://movie.douban.com/@User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36",
+            "id": "30433455",
+            "cover_y": 5891
         },
         {
             "directors": [
-                "夏铭泽",
-                "阎凯"
-            ],
-            "rate": "7.6",
-            "cover_x": 2000,
-            "star": "40",
-            "title": "茶啊二中",
-            "url": "https://movie.douban.com/subject/34880018/",
-            "casts": [
-                "邢原源",
-                "王博文",
-                "高禹恒",
-                "黄恒",
-                "郭红进"
-            ],
-            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895351514.webp@Referer=https://movie.douban.com/@User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36",
-            "id": "34880018",
-            "cover_y": 2746
-        },
-        {
-            "directors": [
-                "澄丰"
-            ],
-            "rate": "4.0",
-            "cover_x": 1400,
-            "star": "20",
-            "title": "花轿喜事",
-            "url": "https://movie.douban.com/subject/35551677/",
-            "casts": [
-                "田曦薇",
-                "敖瑞鹏",
-                "白冰可",
-                "赵顺然",
-                "丁一一"
-            ],
-            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2897114604.webp@Referer=https://movie.douban.com/@User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36",
-            "id": "35551677",
-            "cover_y": 1958
-        },
-        {
-            "directors": [
-                "毕鑫业"
+                "李昂",
+                "刘洪源"
             ],
             "rate": "",
-            "cover_x": 2500,
+            "cover_x": 1402,
             "star": "0",
-            "title": "我有一个朋友",
-            "url": "https://movie.douban.com/subject/35712815/",
+            "title": "南风知我意",
+            "url": "https://movie.douban.com/subject/30482094/",
             "casts": [
-                "谢兴阳",
-                "苏梦迪",
-                "王翰闻",
-                "潘玥同",
-                "赵子麒"
+                "成毅",
+                "张予曦",
+                "付辛博",
+                "李欣泽",
+                "梁婧娴"
             ],
-            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897779490.webp@Referer=https://movie.douban.com/@User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36",
-            "id": "35712815",
-            "cover_y": 3848
-        },
-        {
-            "directors": [
-                "郭帆"
-            ],
-            "rate": "8.3",
-            "cover_x": 1882,
-            "star": "40",
-            "title": "流浪地球2",
-            "url": "https://movie.douban.com/subject/35267208/",
-            "casts": [
-                "吴京",
-                "刘德华",
-                "李雪健",
-                "沙溢",
-                "宁理"
-            ],
-            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2885955777.webp@Referer=https://movie.douban.com/@User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36",
-            "id": "35267208",
-            "cover_y": 2800
+            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2897873785.webp@Referer=https://movie.douban.com/@User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36",
+            "id": "30482094",
+            "cover_y": 1961
         },
         {
             "directors": [
@@ -349,6 +289,86 @@
         },
         {
             "directors": [
+                "臧溪川"
+            ],
+            "rate": "",
+            "cover_x": 1432,
+            "star": "0",
+            "title": "九义人",
+            "url": "https://movie.douban.com/subject/35623511/",
+            "casts": [
+                "吴倩",
+                "李佳航",
+                "乔振宇",
+                "胡意旋",
+                "汤晶媚"
+            ],
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2898123089.webp@Referer=https://movie.douban.com/@User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36",
+            "id": "35623511",
+            "cover_y": 2048
+        },
+        {
+            "directors": [
+                "郭帆"
+            ],
+            "rate": "8.3",
+            "cover_x": 1882,
+            "star": "40",
+            "title": "流浪地球2",
+            "url": "https://movie.douban.com/subject/35267208/",
+            "casts": [
+                "吴京",
+                "刘德华",
+                "李雪健",
+                "沙溢",
+                "宁理"
+            ],
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2885955777.webp@Referer=https://movie.douban.com/@User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36",
+            "id": "35267208",
+            "cover_y": 2800
+        },
+        {
+            "directors": [
+                "刘雨霖"
+            ],
+            "rate": "6.3",
+            "cover_x": 4429,
+            "star": "30",
+            "title": "念念相忘",
+            "url": "https://movie.douban.com/subject/35424911/",
+            "casts": [
+                "刘浩存",
+                "宋威龙",
+                "卜冠今",
+                "郭丞",
+                "高亚麟"
+            ],
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896873968.webp@Referer=https://movie.douban.com/@User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36",
+            "id": "35424911",
+            "cover_y": 6200
+        },
+        {
+            "directors": [
+                "宋晓飞"
+            ],
+            "rate": "",
+            "cover_x": 5009,
+            "star": "0",
+            "title": "骄阳伴我",
+            "url": "https://movie.douban.com/subject/35132922/",
+            "casts": [
+                "肖战",
+                "白百何",
+                "田雨",
+                "朱珠",
+                "袁文康"
+            ],
+            "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897429863.webp@Referer=https://movie.douban.com/@User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36",
+            "id": "35132922",
+            "cover_y": 8000
+        },
+        {
+            "directors": [
                 "辛爽"
             ],
             "rate": "9.4",
@@ -369,45 +389,24 @@
         },
         {
             "directors": [
-                "韩延"
+                "唐铁军",
+                "吴迪"
             ],
-            "rate": "7.9",
-            "cover_x": 2126,
+            "rate": "8.2",
+            "cover_x": 5906,
             "star": "40",
-            "title": "我爱你！",
-            "url": "https://movie.douban.com/subject/35818074/",
+            "title": "鹊刀门传奇",
+            "url": "https://movie.douban.com/subject/35936087/",
             "casts": [
-                "倪大红",
-                "惠英红",
-                "梁家辉",
-                "叶童",
-                "成果"
+                "赵本山",
+                "宋小宝",
+                "宋晓峰",
+                "文松",
+                "程野"
             ],
-            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2888042597.webp@Referer=https://movie.douban.com/@User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36",
-            "id": "35818074",
-            "cover_y": 2976
-        },
-        {
-            "directors": [
-                "乔伊姆·多斯·桑托斯",
-                "凯普·鲍尔斯",
-                "贾斯汀·汤普森"
-            ],
-            "rate": "8.5",
-            "cover_x": 2000,
-            "star": "45",
-            "title": "蜘蛛侠：纵横宇宙",
-            "url": "https://movie.douban.com/subject/30391186/",
-            "casts": [
-                "沙梅克·摩尔",
-                "海莉·斯坦菲尔德",
-                "奥斯卡·伊萨克",
-                "杰克·约翰逊",
-                "伊萨·雷"
-            ],
-            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892315297.webp@Referer=https://movie.douban.com/@User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36",
-            "id": "30391186",
-            "cover_y": 2963
+            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896880555.webp@Referer=https://movie.douban.com/@User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36",
+            "id": "35936087",
+            "cover_y": 10500
         }
     ]
 }
