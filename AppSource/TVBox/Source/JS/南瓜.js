@@ -142,14 +142,14 @@ var rule = {
     		});
     		//线路排序
     		playFrom.sort((a, b) => {
-            	if (a.includes("官网") && !b.includes("官网")) {
-        			return 1;
-            	} else if (!a.includes("官网") && b.includes("官网")) {
-        			return -1;
-            	} else {
-        			return 0;
-				}
-			});
+            	    if (a.includes("官网") && !b.includes("官网")) {
+                         return 1;
+            	    } else if (!a.includes("官网") && b.includes("官网")) {
+                         return -1;
+            	    } else {
+                         return 0;
+                    }
+                });
     		let playList = [];
     		Object.keys(playMap).forEach(function(key) {
         		playList.push(playMap[key].join('#'));
