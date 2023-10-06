@@ -128,13 +128,13 @@ var rule = {
             		let source = ep['show'];
             		//线路过滤
             		if (!excludedSources.some(exclude => source.includes(exclude))) {
-                		if (!playMap.hasOwnProperty(source)) {
-                			playMap[source] = [];
-                		}
-                		playMap[source].push(playurl['name'].strip() + '$' + play_url + playurl['url']);
-                		//playMap[source].push(playurl['name'].strip() + '$' + play_url + urlencode(playurl['url']));
+            			if (!playMap.hasOwnProperty(source)) {
+            				playMap[source] = [];
+            			}
+            			playMap[source].push(playurl['name'].strip() + '$' + play_url + playurl['url']);
+            			//playMap[source].push(playurl['name'].strip() + '$' + play_url + urlencode(playurl['url']));
             		}
-        		});
+            	});
     		});
     		let playFrom = [];
     		Object.keys(playMap).forEach(function(key) {
@@ -142,14 +142,14 @@ var rule = {
     		});
     		//线路排序
     		playFrom.sort((a, b) => {
-        		if (a.includes("官网") && !b.includes("官网")) {
+            	if (a.includes("官网") && !b.includes("官网")) {
             		return 1;
-        		} else if (!a.includes("官网") && b.includes("官网")) {
+            	} else if (!a.includes("官网") && b.includes("官网")) {
             		return -1;
-        		} else {
+            	} else {
             		return 0;
-        		}
-    		});
+            	}
+            });
     		let playList = [];
     		Object.keys(playMap).forEach(function(key) {
         		playList.push(playMap[key].join('#'));
