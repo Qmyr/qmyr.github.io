@@ -159,8 +159,8 @@ var rule = {
     		VOD['vod_play_from'] = vod_play_from;
     		VOD['vod_play_url'] = vod_play_url;
         } catch (e) {
-    		log('获取二级详情页发生错误:' + e.message);
-		}
+            log('获取二级详情页发生错误:' + e.message);
+        }
 	`,
 	搜索: `js:
         var d = [];
