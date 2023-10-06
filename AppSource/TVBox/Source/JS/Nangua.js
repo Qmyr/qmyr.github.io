@@ -122,8 +122,8 @@ var rule = {
         		var play_url = '';
     		}
     		const excludedSources = ["FF源", "LZ源"];
-    		episodes.forEach(function(ep) {
-        		let playurls = ep['video_info'];
+        		episodes.forEach(function(ep) {
+         		let playurls = ep['video_info'];
         		playurls.forEach(function(playurl) {
 					let source = ep['show'];
 					//线路过滤
@@ -143,11 +143,11 @@ var rule = {
     		//线路排序
     		playFrom.sort((a, b) => {
             	if (a.includes("官网") && !b.includes("官网")) {
-					return 1;
+        		return 1;
             	} else if (!a.includes("官网") && b.includes("官网")) {
-					return -1;
+        		return -1;
             	} else {
-					return 0;
+        		return 0;
 				}
 			});
     		let playList = [];
