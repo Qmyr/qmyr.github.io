@@ -1,17 +1,3 @@
-globalThis.getHeaders = function(input) {
-	let t = new Date().getTime().toString();
-	let headers = {
-		'version_name': '1.0.6',
-		'version_code': '6',
-		'package_name': 'com.app.nanguatv',
-		'sign': md5('c431ea542cee9679#uBFszdEM0oL0JRn@' + t).toUpperCase(),
-		'imei': 'c431ea542cee9679',
-		'timeMillis': t,
-		'User-Agent': 'okhttp/4.6.0'
-	};
-	return headers;
-};
-
 var rule = {
 	title: '南瓜影视',
 	host: 'http://ys.changmengyun.com',
@@ -193,4 +179,18 @@ var rule = {
         });
         setResult(d);
     `,
+};
+
+globalThis.getHeaders = function(input) {
+	let t = new Date().getTime().toString();
+	let headers = {
+		'version_name': '1.0.6',
+		'version_code': '6',
+		'package_name': 'com.app.nanguatv',
+		'sign': md5('c431ea542cee9679#uBFszdEM0oL0JRn@' + t).toUpperCase(),
+		'imei': 'c431ea542cee9679',
+		'timeMillis': t,
+		'User-Agent': 'okhttp/4.6.0'
+	};
+	return headers;
 };
