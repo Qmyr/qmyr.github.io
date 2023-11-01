@@ -2,6 +2,7 @@
     /*
     "IsRecodeLog": false,
     "ForceChangeApiUrl": false,
+    "IjkCache": false,
     "FlagsSort": true,
     "SeriesSort": true,
     "ApiUrl": "",
@@ -11,7 +12,6 @@
     "HomeStyle": 0,
     "HomeSource": 0,
     "SearchView": 0,
-    "IjkCache": 0,
     "HistoryNum": 2,
     "SecureDNS": 0,
     "PictureScale": 0,
