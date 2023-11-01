@@ -2,6 +2,8 @@
     /*
     "IsRecodeLog": false,
     "ForceChangeApiUrl": false,
+    "FlagsSort": true,
+    "SeriesSort": true,
     "ApiUrl": "",
     "AppName": 0,
     "HomeSite": "",
