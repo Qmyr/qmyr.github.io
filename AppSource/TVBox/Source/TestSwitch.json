@@ -40,7 +40,7 @@
         "CancelButtonText": "下次再说",
         "ExitButtonVisibility": false,
         "ExitButtonText": "退出应用",
-        "SkipWebUrl": "https://gh-proxy.com/raw.githubusercontent.com/Qmyr/qmyr.github.io/main/AppSource/TVBox/Apk/TVBox-1.1.0.apk",
-        "UpdateDownloadUrl": "https://gh-proxy.com/raw.githubusercontent.com/Qmyr/qmyr.github.io/main/AppSource/TVBox/Apk/TVBox-1.1.0.apk"
+        "SkipWebUrl": "https://mirror.ghproxy.com/raw.githubusercontent.com/Qmyr/qmyr.github.io/main/AppSource/TVBox/Apk/TVBox-1.1.0.apk",
+        "UpdateDownloadUrl": "https://mirror.ghproxy.com/raw.githubusercontent.com/Qmyr/qmyr.github.io/main/AppSource/TVBox/Apk/TVBox-1.1.0.apk"
     }
 }
