@@ -3,7 +3,6 @@
     "IsRecodeLog": false,
     "ForceChangeApiUrl": false,
     "IjkCache": false,
-    "FlagsSort": true,
     "SeriesSort": true,
     "ApiUrl": "",
     "AppName": 0,
@@ -16,6 +15,7 @@
     "SecureDNS": 0,
     "PictureScale": 0,
     */
+    "FlagsSort": false,
     "Live": {
         /*
         "Channel": "",
