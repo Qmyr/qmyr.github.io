@@ -26,10 +26,10 @@
     },
     "IsForceUpdate": true,
     "UpdateData": {
-        "NewVersion": "1.1.0",
+        "NewVersion": "1.1.1",
         "ForceUpdate": false,
-        "UpdateTitle": "新版本: 1.1.0    安装包大小: 13.59M",
-        "UpdateDesc": "注意:\n更新后如果出现打开应用闪退的情况\n在设备设置内清空应用数据即可\n1.历史和收藏增加清空功能\n2.点播增加屏幕锁定功能\n3.修复XML格式采集源搜索无图片数据的问题\n4.修改启动请求配置逻辑,加快加载配置速度",
+        "UpdateTitle": "新版本: 1.1.1    安装包大小: 13.41M",
+        "UpdateDesc": "注意:\n更新后如果出现打开应用闪退的情况\n在设备设置内清空应用数据即可\n1.历史和收藏的长按删除记录修改为长按搜索\n2.播放页增加展示全部简介按钮\n3.修复Web解析并发时无法根据配置设置对应请求头的bug\n4.新增\"flagStor\"和\"seriesSort\"字段\n用于配置站点是否启用线路和剧集重新排序\n5.修复爬虫源分类和播放页抛出异常时无限加载的bug",
         "ConfirmButtonVisibility": true,
         "ConfirmButtonText": "立即更新",
         "SkipWebButtonVisibility": false,
@@ -38,7 +38,7 @@
         "CancelButtonText": "下次再说",
         "ExitButtonVisibility": false,
         "ExitButtonText": "退出应用",
-        "SkipWebUrl": "https://mirror.ghproxy.com/raw.githubusercontent.com/Qmyr/qmyr.github.io/main/AppSource/TVBox/Apk/TVBox-1.1.0.apk",
-        "UpdateDownloadUrl": "https://mirror.ghproxy.com/raw.githubusercontent.com/Qmyr/qmyr.github.io/main/AppSource/TVBox/Apk/TVBox-1.1.0.apk"
+        "SkipWebUrl": "https://github.moeyy.xyz/raw.githubusercontent.com/Qmyr/qmyr.github.io/main/AppSource/TVBox/Apk/TVBox-1.1.1.apk",
+        "UpdateDownloadUrl": "https://github.moeyy.xyz/raw.githubusercontent.com/Qmyr/qmyr.github.io/main/AppSource/TVBox/Apk/TVBox-1.1.1.apk"
     }
 }
