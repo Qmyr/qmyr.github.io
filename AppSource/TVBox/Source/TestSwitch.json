@@ -29,7 +29,7 @@
         "NewVersion": "1.1.1",
         "ForceUpdate": false,
         "UpdateTitle": "新版本: 1.1.1    安装包大小: 13.41M",
-        "UpdateDesc": "注意:\n更新后如果出现打开应用闪退的情况\n在设备设置内清空应用数据即可\n1.历史和收藏的长按删除记录修改为长按搜索\n2.播放页增加展示全部简介按钮\n3.修复Web解析并发时无法根据配置设置对应请求头的bug\n4.新增\"flagStor\"和\"seriesSort\"字段\n用于配置站点是否启用线路和剧集重新排序\n5.修复爬虫源分类和播放页抛出异常时无限加载的bug",
+        "UpdateDesc": "注意:\n更新后如果出现打开应用闪退的情况\n在设备设置内清空应用数据即可\n1.移除广告过滤功能(某些站点m3u8广告插播规则变化太频繁,现有规则可能会移除掉正片内容,维护太费精力)\n2.历史和收藏的长按删除记录修改为长按搜索\n3.播放页增加展示全部简介按钮\n4.修复Web解析并发时无法根据配置设置对应请求头的bug\n5.新增\"flagStor\"和\"seriesSort\"字段\n用于配置站点是否启用线路和剧集重新排序\n6.修复爬虫源分类和播放页抛出异常时无限加载的bug",
         "ConfirmButtonVisibility": true,
         "ConfirmButtonText": "立即更新",
         "SkipWebButtonVisibility": false,
