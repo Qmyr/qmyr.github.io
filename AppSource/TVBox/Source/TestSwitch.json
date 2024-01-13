@@ -38,7 +38,7 @@
         "CancelButtonText": "下次再说",
         "ExitButtonVisibility": false,
         "ExitButtonText": "退出应用",
-        "SkipWebUrl": "https://hub.gitmirror.com/https://raw.githubusercontent.com/Qmyr/qmyr.github.io/main/AppSource/TVBox/Apk/TVBox-1.1.2.apk",
-        "UpdateDownloadUrl": "https://hub.gitmirror.com/https://raw.githubusercontent.com/Qmyr/qmyr.github.io/main/AppSource/TVBox/Apk/TVBox-1.1.2.apk"
+        "SkipWebUrl": "https://github.moeyy.xyz/raw.githubusercontent.com/Qmyr/qmyr.github.io/main/AppSource/TVBox/Apk/TVBox-1.1.2.apk",
+        "UpdateDownloadUrl": "https://github.moeyy.xyz/raw.githubusercontent.com/Qmyr/qmyr.github.io/main/AppSource/TVBox/Apk/TVBox-1.1.2.apk"
     }
 }
