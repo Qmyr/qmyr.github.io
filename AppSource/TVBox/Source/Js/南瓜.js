@@ -124,6 +124,7 @@ var rule = {
     		const excludedSources = ["FF源", "LZ源"];
         	episodes.forEach(function(ep) {
                 let playurls = ep['video_info'];
+                /*
                 playurls.forEach(function(playurl) {
                     let source = ep['show'];
                     //线路过滤
@@ -133,6 +134,19 @@ var rule = {
                         }
                         playMap[source].push(playurl['name'].strip() + '$' + play_url + playurl['url']);
                         //playMap[source].push(playurl['name'].strip() + '$' + play_url + urlencode(playurl['url']));
+                    }
+                });
+                */
+                playurls.forEach(function(playurl) {
+                    let source = ep['from'];
+                    //线路过滤
+                    if (!excludedSources.some(exclude => source.includes(exclude))) {
+                        if (!playMap.hasOwnProperty(source)) {
+                            playMap[source] = [];
+                        }
+                        var urls = playurl['url'];
+                        var firstUrl = urls[0];
+                        playMap[source].push(playurl['name'].trim() + '$' + play_url + firstUrl);
                     }
                 });
             });
