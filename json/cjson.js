@@ -1,13 +1,12 @@
-﻿window.SINGLE_TAB = "  ";
+window.SINGLE_TAB = "  ";
 window.ImgCollapsed = "data:image/webp;base64,UklGRqgAAABXRUJQVlA4TJwAAAAvG4ACEK+gpJEkafH6B2vtfBya14bCtm0bA/n/nXyRV7p3M9QEAJpw0YaE1KWBy2T+YwAGsPHZLrxWLP2rOKSX9XI4HART1EFb0ua3fg+ktIk8EcfMwDCSrSaSc4b+izV9rYAX0X+jbds4qIM74/jWmNcGyeTXNo0AGKCI5N5MmkCk2Fm8WrjfLzQscyER+QSWSyUOtH42P/713zY=";
 window.ImgExpanded = "data:image/webp;base64,UklGRpwAAABXRUJQVlA4TJAAAAAvG4ACEK+gqG0jpu/jT+547E1DQRtJyl7Ov7SzQs/8CtpIUvYEnX9D54DhYf4DAAD/f/+Pe6RWe6zZ1+OYc+25vK+66jYsjXst99q1JIfmRMpYhIFhJFtpcHeS/ovVRyr4RPRfQFDogRlszXHeEdQWdyeWkhcDpi8ughl+SWB2ewqxgMVcKrUO1sa8nItf/0U=";
 window.QuoteKeys = true;
-function $id(id) { return document.getElementById(id); }
+function $id(id) {
+    return document.getElementById(id);
+}
 function IsArray(obj) {
-    return obj &&
-          typeof obj === 'object' &&
-          typeof obj.length === 'number' &&
-          !(obj.propertyIsEnumerable('length'));
+    return obj && typeof obj === 'object' && typeof obj.length === 'number' && !(obj.propertyIsEnumerable('length'));
 }
 
 function Process() {
@@ -22,7 +21,7 @@ function Process() {
         var obj = eval("[" + json + "]");
         html = ProcessObject(obj[0], 0, false, false, false);
         $id("Canvas").innerHTML = "<PRE class='CodeContainer'>" + html + "</PRE>";
-    } catch (e) {
+    } catch(e) {
         $("#codeall").css("display", "block");
         $("#codeall2").css("display", "block");
         document.getElementById('errdiv').innerHTML = "输入的JSON数据格式不正确：" + e.message;
@@ -33,19 +32,22 @@ window._dateObj = new Date();
 window._regexpObj = new RegExp();
 function ProcessObject(obj, indent, addComma, isArray, isPropertyContent) {
     var html = "";
-    var comma = (addComma) ? "<span class='Comma'>,</span> " : "";
+    var comma = (addComma) ? "<span class='Comma'>,</span> ": "";
     var type = typeof obj;
     var clpsHtml = "";
+    function escapeHtml(str) {
+        return str.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&#039;");
+    }
     if (IsArray(obj)) {
         if (obj.length == 0) {
             html += GetRow(indent, "<span class='ArrayBrace'>[ ]</span>" + comma, isPropertyContent);
         } else {
-            clpsHtml = window.IsCollapsible ? "<span><img src=\"" + window.ImgExpanded + "\" onClick=\"ExpImgClicked(this)\" /></span><span class='collapsible'>" : "";
+            clpsHtml = window.IsCollapsible ? "<span><img src=\"" + window.ImgExpanded + "\" onClick=\"ExpImgClicked(this)\" /></span><span class='collapsible'>": "";
             html += GetRow(indent, "<span class='ArrayBrace'>[</span>" + clpsHtml, isPropertyContent);
             for (var i = 0; i < obj.length; i++) {
                 html += ProcessObject(obj[i], indent + 1, i < (obj.length - 1), true, false);
             }
-            clpsHtml = window.IsCollapsible ? "</span>" : "";
+            clpsHtml = window.IsCollapsible ? "</span>": "";
             html += GetRow(indent, clpsHtml + "<span class='ArrayBrace'>]</span>" + comma);
         }
     } else if (type == 'object') {
@@ -54,75 +56,54 @@ function ProcessObject(obj, indent, addComma, isArray, isPropertyContent) {
         } else if (obj.constructor == window._dateObj.constructor) {
             html += FormatLiteral("new Date(" + obj.getTime() + ") /*" + obj.toLocaleString() + "*/", "", comma, indent, isArray, "Date");
         } else if (obj.constructor == window._regexpObj.constructor) {
-            html += FormatLiteral("new RegExp(" + obj + ")", "", comma, indent, isArray, "RegExp");
+            var pattern = escapeHtml(obj.source);
+            var flags = obj.flags;
+            var regStr = "/" + pattern + "/" + flags;
+            html += FormatLiteral(regStr, "", comma, indent, isArray, "RegExp");
         } else {
             var numProps = 0;
             for (var prop in obj) numProps++;
             if (numProps == 0) {
                 html += GetRow(indent, "<span class='ObjectBrace'>{ }</span>" + comma, isPropertyContent);
             } else {
-                clpsHtml = window.IsCollapsible ? "<span><img src=\"" + window.ImgExpanded + "\" onClick=\"ExpImgClicked(this)\" /></span><span class='collapsible'>" : "";
+                clpsHtml = window.IsCollapsible ? "<span><img src=\"" + window.ImgExpanded + "\" onClick=\"ExpImgClicked(this)\" /></span><span class='collapsible'>": "";
                 html += GetRow(indent, "<span class='ObjectBrace'>{</span>" + clpsHtml, isPropertyContent);
-
                 var j = 0;
-
                 for (var prop in obj) {
-
-                    var quote = window.QuoteKeys ? "\"" : "";
-
+                    var quote = window.QuoteKeys ? "\"": "";
                     html += GetRow(indent + 1, "<span class='PropertyName'>" + quote + prop + quote + "</span>: " + ProcessObject(obj[prop], indent + 1, ++j < numProps, false, true));
-
                 }
-
-                clpsHtml = window.IsCollapsible ? "</span>" : "";
-
+                clpsHtml = window.IsCollapsible ? "</span>": "";
                 html += GetRow(indent, clpsHtml + "<span class='ObjectBrace'>}</span>" + comma);
-
             }
-
         }
-
     } else if (type == 'number') {
-
         html += FormatLiteral(obj, "", comma, indent, isArray, "Number");
-
     } else if (type == 'boolean') {
-
         html += FormatLiteral(obj, "", comma, indent, isArray, "Boolean");
-
     } else if (type == 'function') {
-
         if (obj.constructor == window._regexpObj.constructor) {
-
             html += FormatLiteral("new RegExp(" + obj + ")", "", comma, indent, isArray, "RegExp");
-
         } else {
-
             obj = FormatFunction(indent, obj);
-
             html += FormatLiteral(obj, "", comma, indent, isArray, "Function");
-
         }
-
     } else if (type == 'undefined') {
-
         html += FormatLiteral("undefined", "", comma, indent, isArray, "Null");
-
     } else {
-
-        html += FormatLiteral(obj.toString().split("\\").join("\\\\").split('"').join('\\"'), "\"", comma, indent, isArray, "String");
-
+        var strVal = obj.toString();
+        strVal = strVal.replace(/\\/g, "\\\\").replace(/"/g, '\\"').replace(/\r/g, "\\r").replace(/\n/g, "\\n").replace(/\t/g, "\\t");
+        html += FormatLiteral(strVal, "\"", comma, indent, isArray, "String");
     }
 
     return html;
-
 }
 
 function FormatLiteral(literal, quote, comma, indent, isArray, style) {
 
     if (typeof literal == 'string')
 
-        literal = literal.split("<").join("&lt;").split(">").join("&gt;");
+    literal = literal.split("<").join("&lt;").split(">").join("&gt;");
 
     var str = "<span class='" + style + "'>" + quote + literal + quote + comma + "</span>";
 
@@ -144,7 +125,7 @@ function FormatFunction(indent, obj) {
 
     for (var i = 0; i < funcStrArray.length; i++) {
 
-        str += ((i == 0) ? "" : tabs) + funcStrArray[i] + "\n";
+        str += ((i == 0) ? "": tabs) + funcStrArray[i] + "\n";
 
     }
 
@@ -160,7 +141,7 @@ function GetRow(indent, data, isPropertyContent) {
 
     if (data != null && data.length > 0 && data.charAt(data.length - 1) != "\n")
 
-        data = data + "\n";
+    data = data + "\n";
 
     return tabs + data;
 
@@ -168,13 +149,11 @@ function GetRow(indent, data, isPropertyContent) {
 
 function CollapsibleViewClicked() {
 
-    $id("CollapsibleViewDetail").style.visibility = $id("CollapsibleView").checked ? "visible" : "hidden";
+    $id("CollapsibleViewDetail").style.visibility = $id("CollapsibleView").checked ? "visible": "hidden";
 
     Process();
 
 }
-
-
 
 function QuoteKeysClicked() {
 
@@ -184,13 +163,12 @@ function QuoteKeysClicked() {
 
 }
 
-
-
 function CollapseAllClicked() {
 
     EnsureIsPopulated();
 
-    TraverseChildren($id("Canvas"), function (element) {
+    TraverseChildren($id("Canvas"),
+    function(element) {
 
         if (element.className == 'collapsible') {
 
@@ -198,7 +176,8 @@ function CollapseAllClicked() {
 
         }
 
-    }, 0);
+    },
+    0);
 
 }
 
@@ -206,7 +185,8 @@ function ExpandAllClicked() {
 
     EnsureIsPopulated();
 
-    TraverseChildren($id("Canvas"), function (element) {
+    TraverseChildren($id("Canvas"),
+    function(element) {
 
         if (element.className == 'collapsible') {
 
@@ -214,7 +194,8 @@ function ExpandAllClicked() {
 
         }
 
-    }, 0);
+    },
+    0);
 
 }
 
@@ -222,11 +203,11 @@ function MakeContentVisible(element, visible) {
 
     var img = element.previousSibling.firstChild;
 
-    if (!!img.tagName && img.tagName.toLowerCase() == "img") {
+    if ( !! img.tagName && img.tagName.toLowerCase() == "img") {
 
-        element.style.display = visible ? 'inline' : 'none';
+        element.style.display = visible ? 'inline': 'none';
 
-        element.previousSibling.firstChild.src = visible ? window.ImgExpanded : window.ImgCollapsed;
+        element.previousSibling.firstChild.src = visible ? window.ImgExpanded: window.ImgCollapsed;
 
     }
 
@@ -272,7 +253,8 @@ function CollapseLevel(level) {
 
     EnsureIsPopulated();
 
-    TraverseChildren($id("Canvas"), function (element, depth) {
+    TraverseChildren($id("Canvas"),
+    function(element, depth) {
 
         if (element.className == 'collapsible') {
 
@@ -288,7 +270,8 @@ function CollapseLevel(level) {
 
         }
 
-    }, 0);
+    },
+    0);
 
 }
 
@@ -328,9 +311,7 @@ function MultiplyString(num, str) {
 
 function SelectAllClicked() {
 
-
-
-    if (!!document.selection && !!document.selection.empty) {
+    if ( !! document.selection && !!document.selection.empty) {
 
         document.selection.empty();
 
@@ -346,35 +327,29 @@ function SelectAllClicked() {
 
     }
 
-
-
     var range =
 
-      (!!document.body && !!document.body.createTextRange)
+    ( !! document.body && !!document.body.createTextRange)
 
-          ? document.body.createTextRange()
+    ? document.body.createTextRange()
 
-          : document.createRange();
+    : document.createRange();
 
+    if ( !! range.selectNode)
 
-
-    if (!!range.selectNode)
-
-        range.selectNode($id("Canvas"));
+    range.selectNode($id("Canvas"));
 
     else if (range.moveToElementText)
 
-        range.moveToElementText($id("Canvas"));
+    range.moveToElementText($id("Canvas"));
 
+    if ( !! range.select)
 
-
-    if (!!range.select)
-
-        range.select($id("Canvas"));
+    range.select($id("Canvas"));
 
     else
 
-        window.getSelection().addRange(range);
+    window.getSelection().addRange(range);
 
 }
 
